@@ -45,7 +45,7 @@
 - **genius** is often just **persistence** in disguise
 - working at it works; it's that simple
 
-- Winning Mindset:
+- **Winning Mindset:**
   - never in a **hurry**
   - never **worried**
   - never **desperate**
