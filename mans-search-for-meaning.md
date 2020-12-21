@@ -12,7 +12,7 @@
  - it's our responsibility to find the answers to life's problems and to fulfill our tasks which life constantly sets for each person
  - these TASKS differ from man to man and from moment to moment, thus it's impossible to define the meaning of life in general terms
 
- ### Suffering
+### Suffering
  - has no limits is an ineradicable part of life just like death
  - in and of itself is **meaningless**; we give our suffering meaning by the way in which we **respond** to it
  - is **unavoidable**, but is not necessary to find meaning
