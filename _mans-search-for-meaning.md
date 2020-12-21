@@ -1,6 +1,7 @@
 ## Man's Search for Meaning
 -- *Viktor Frankl*
 
+
 ### Meaningful Life
 - he who has a **why** to live for can bear almost any **how** (Nietzsche)
 - man's search for **meaning** (not pleasure or power) is the primary motivation in life
@@ -11,6 +12,7 @@
 - the meaning is not found in talk or meditation but in right **action** and right **conduct**
 - it's our responsibility to find the answers to life's problems and to fulfill our tasks which life constantly sets for each person
 - these TASKS differ from man to man and from moment to moment, thus it's impossible to define the meaning of life in general terms
+
 
 ### Suffering
 - has no limits is an ineradicable part of life just like death
@@ -23,6 +25,7 @@
 - transform tragety into triumph and turn a predicament into achievement
 - suffering **ceases** to be suffering at the moment it finds a **meaning**, such as the meaning of a sacrifice
 
+
 ### Success & Happiness
 - don't aim at it - the more you aim at it and make it a target, the more you are going to miss it
 - can not be **pursued**; it can only be  **ensued**
@@ -30,23 +33,29 @@
 - is a **by-product** of one's dedication to a **cause** greater than oneself or of one's surrender to a **person** other than oneself
 - **pleasure** must also be a by-product and not a goal
 
+
 ### Love
 - is the ultimate and the highest goal to which a man can aspire
 - the salvation of man is through love and in love
 - love goes far beyond the physical person, it finds its deepest meaning in the spiritual being
 - whether or not the person you love is present or is even alive is not important
 
+
 ### Judging Others
 - no man should judge unless he asks himself in absolute honestly whether in a similar situation he might not have done the same
+
 
 ### Right & Wrong
 - no one has the right to do wrong, not even if wrong has been done to them
 
+
 ### Regret
 - use it as an opportunity to change oneself for the better
 
+
 ### Mortality
 - use it as an incentive to lead a more responsible life
+
 
 ### Aging
 - no need to pity older people

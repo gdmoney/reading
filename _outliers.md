@@ -1,12 +1,14 @@
 ## Outliers
 -- *Malcolm Gladwel*
 
+
 - **outliers** - people who do extraordinary things
 - we tend to focus only on the individuals -  their charasteristics, habits, and personality traits
 - in addition to their **intelligence** and **personalities**, they were beneficiaries of hidden **advantages**, special **opportunities**, and **cultural** legacies
 - **success** is not just a matter of individual **merit**
 - **achievement** = (talent + preparation + effort) + (advantage + opportunity + culture)
 - we need to replace the patchwork of lucky breaks and arbitrary advantages that today determine success with a society that provides opportunities for all
+
 
 ### Opportunity
 - **Accumulative Advantage** - little difference leads to an opportunity that makes that difference a bit bigger, and that edge in turn leads to another opportunity, which makes the initially small difference bigger still
@@ -18,6 +20,7 @@
 - **Accomplishment of Natural Growth** - let children grow and develop on their own; **poor** parents' parenting style
 - **Cultural Advantage** - life skills learned from parents necessary to succeed in the world; being exposed to different experiences, teamwork, interact with adults, speak up when needed, assert yourself with people in authority, etc.
 - **Work Satisfaction** = **autonomy** + **challenge** + connection between **effort** and **reward**
+
 
 ### Legacy
 - **Culture of Honor** - culture developed among herdsman living in harsh mountainous areas where the constant threat of losing their animals to theft, resulted in aggressiveness and having a tough reputation becoming a better survival strategy than cooperation (which is a better strategy for farmers)

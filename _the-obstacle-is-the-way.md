@@ -1,6 +1,7 @@
 ## The Obstacle is the Way
 -- *Ryan Holiday*
 
+
 - **setbacks** and **problems** are always expected and never permanent
 - **struggle** is the one **constant** in all of our lives
 - our attitude and approach are usually at fault

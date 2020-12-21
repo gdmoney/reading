@@ -1,6 +1,7 @@
 ## On the Shortness of Life
 -- *Seneca*
 
+
 - it is **not** that we have **short** lifetimes, but that we **waste** much of it
 - life is amply long for him who orders it properly
 - we are surrounded by vices which prevent us from seeing clearly
