@@ -106,6 +106,8 @@
 - we act like we're impervious to the trials and tribulations of mortality
 - reminding ourselves each day that we will die helps us be grateful for our time
 
+
+### Conclusion
 - each time you navigate an obstacle, you learn something, develop strength, wisdom, perspective and become a **better version** of you
 - life is a **marathon**, not a **sprint**, each battle is only one of many and you can use it to make the next one easier
 - never **rattled** or **frantic**, always **deliberate**
