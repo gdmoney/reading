@@ -1,4 +1,4 @@
-## [Outliers](/outliers.html)
+## [Outliers](/outliers.md)
 -- *Malcolm Gladwel*
 
 
