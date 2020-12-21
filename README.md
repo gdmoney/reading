@@ -18,3 +18,9 @@
 -- *Brian Christian and Tom Griffiths*
 
 
+## [Free Range Kids](/free-range-kids.md)
+-- *Lenore Skenazy*
+
+
+## [The Alchemist](/the-alchemist.md)
+-- *Paulo Coelho*
