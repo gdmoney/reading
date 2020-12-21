@@ -1,4 +1,4 @@
-MEANINGFUL LIFE
+**Meaningful Life**
  - he who has a WHY to live for can bear almost any HOW (Nietzsche)
  - man's search for MEANING (not pleasure or power) is the primary motivation in life
  - this meaning is UNIQUE and it must and can be fulfilled by him alone
@@ -49,3 +49,4 @@ AGING
  - no need to pity older people
  - older people don't have POSSIBILITIES in the future, but they have REALITIES in the past - the potentialities they have actualized, the MEANINGS they have fulfilled, and the VALUES they have realized
  - value of each person is based on the value they have realized over their entire lifetime, and is not congingent on their present usefulness
+ 
