@@ -1,3 +1,6 @@
+## Man's Search for Meaning
+-- *Viktor Frankl*
+
 ### Meaningful Life
  - he who has a **why** to live for can bear almost any **how** (Nietzsche)
  - man's search for **meaning** (not pleasure or power) is the primary motivation in life
