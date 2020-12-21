@@ -15,7 +15,7 @@
 - decision-making / problem-solving
 - creativity
 - trust
-- **growt** mindset
+- **growth** mindset
 
 
 ### Bad
