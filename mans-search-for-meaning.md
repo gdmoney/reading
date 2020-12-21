@@ -15,7 +15,7 @@
 
 
 ### Suffering
-- has no limits is an ineradicable part of life just like death
+- has no limits and is an ineradicable part of life just like death
 - in and of itself is **meaningless**; we give our suffering meaning by the way in which we **respond** to it
 - is **unavoidable**, but is not necessary to find meaning
 - forces beyond your control can take away **everything** you possess **except** one thing, your freedom to **choose** your **attitude** and how you will **respond** to the situation
