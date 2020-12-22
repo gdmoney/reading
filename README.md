@@ -43,3 +43,20 @@
 
 *****
 
+### [The Phoenix Project](/the-phoenix-project.md)
+-- *Gene Kim, Kevin Behr, George Spafford*
+
+*****
+
+### [Playful Parenting](/playful-parenting.md)
+-- *Lawrence J. Cohen*
+
+*****
+
+### [Essentialism](/essentialism.md)
+-- *Greg McKeown*
+
+*****
+
+### [How to Fail at Almost Everything and Still Win Big](/how-to-fail-at-almost-everything-and-still-win-big.md)
+-- *Scott Adams*
