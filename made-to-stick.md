@@ -4,20 +4,20 @@
 
 **Stick** - your ideas are understood and remembered and have a lasting impact, they change your audience's opinions or behavior
 
-**Simple**     - finding the core of the idea; elegant; lead; compact
-**Unexpected** - get attention > surprise; hold attention > interest
-**Concrete**   - concrete images vs ambiguous/abstract; common language
-**Credible**   - believe; use vivid, compellig details; stats
-**Emotional**  - care; create empathy; appeal to self-interest and identity
-**Story**      - act; engagement; mental simulation and inspiration > action
+**Simple**     - finding the core of the idea; elegant; lead; compact  
+**Unexpected** - get attention > surprise; hold attention > interest  
+**Concrete**   - concrete images vs ambiguous/abstract; common language  
+**Credible**   - believe; use vivid, compellig details; stats  
+**Emotional**  - care; create empathy; appeal to self-interest and identity  
+**Story**      - act; engagement; mental simulation and inspiration > action  
 
 
 ### The Communication Framework
-1. Pay attention                 UNEXPECTED
-2. Understand and remember it    CONCRETE
-3. Agree/Believe                 CREDIBLE
-4. Care                          EMOTIONAL
-5. Be able to act on it          STORY
+1. Pay attention                 **Unexpected**
+2. Understand and remember it    **Concrete**
+3. Agree/Believe                 **Credible**
+4. Care                          **Emotional**
+5. Be able to act on it          **Story**
 
 
 ### Strategy Barriers
@@ -32,6 +32,7 @@
 3. Tell stories
 
 
+### Ideas
 - **Commander's Intent**
 - schema
 - feature creep
