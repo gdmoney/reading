@@ -11,7 +11,7 @@
 - it's not about what **we expect** from life, but rather what **life efxpects** from us
 - the meaning is not found in talk or meditation but in right **action** and right **conduct**
 - it's our responsibility to find the answers to life's problems and to fulfill our tasks which life constantly sets for each person
-- these TASKS differ from man to man and from moment to moment, thus it's impossible to define the meaning of life in general terms
+- these **tasks** differ from man to man and from moment to moment, thus it's impossible to define the meaning of life in general terms
 
 
 ### Suffering
