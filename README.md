@@ -30,3 +30,16 @@
 
 ### [The Alchemist](/the-alchemist.md)
 -- *Paulo Coelho*
+
+*****
+
+### [The Myths of Innovation](/the-myths-of-innovation.md)
+-- *Scott Berkun*
+
+*****
+
+### [Made to Stick](/made-to-stick.md)
+-- *Chip Heath and Dan Heath*
+
+*****
+
