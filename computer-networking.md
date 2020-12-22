@@ -4,7 +4,7 @@
 
 - **Circuit switching** vs **Packet switching** - pre vs on-demand link resource allocation
    - aka statistical multiplexing
-- **Channel partitioning protocol categories:** **FDM** vs **TDM** vs **CDM**
+- **Channel partitioning** protocol categories: **FDM** vs **TDM** vs **CDM**
 - **Delays:** processing, queuing, transmission, propagation, packetization (VoIP)
 - **Packet types:** message, segment, datagram, frame
 
@@ -34,50 +34,50 @@
 
 *****
 
-- Network layer can provide:
-   - connection service using virtual-circuits (VCs)
+- **Network layer** can provide:
+   - **connection service** using virtual-circuits (VCs)
       - maintain connection state using signaling messages
       - 3 phases: VC setup, data transfer, VC teardown
-   - connectionless service aka datagram networks (IP)
+   - **connectionless service** aka datagram networks (IP)
    
-- Router components: input ports, switching fabric, output ports, routing processor
-- Router functions: route propagation and forwarding path computation
-- Packet scheduler:
+- **Router components:** input ports, switching fabric, output ports, routing processor
+- **Router functions:** route propagation and forwarding path computation
+- **Packet scheduler:**
    - at the output port, chooses one packet among those queued for transmission
    - plays a crucial role in providing QoS
 
-- Routing algorithm classificaton:
+- **Routing algorithm classificaton:**
    - **Adaptive** vs **Oblivious** (routing decisions based on network state (load, conggestion))
    - **Global** vs **Decentralized**; aka link-state vs distance-vector
    - **Static** vs **Dynamic**
    - **Intra-AS** vs **Inter-AS**
 
-- Network link types:
+- **Network link types:**
    - **Point-to-Point**: PPP, HDLC
    - **Broadcast**: Ethernet
 
 *****
 
-- Wireless network types:
+- **Wireless network types:**
    - infrastructure-based single-hop (**WiFi**) or multi-hop (**Mesh**)
    - infrstructure-less single-hop (**bluetooth**) or multi-hop (**MANET**)
 
-- Handoff - mobile client moving from beyond the range of one AP into the range of another AP
+- **Handoff** - mobile client moving from beyond the range of one AP into the range of another AP
 
-- Mobility management principles:
+- **Mobility management principles:**
    - home network, home agent, permanent address
    - foreign network, foreign agent, COA (Care-of Address)
 
 *****
 
-- Multimedia application classes:
+- **Multimedia application classes:**
    - streaming stored audio/video
    - streaming live audio/video
    - real-time interactive audio/video
 
 - **PCM** (Pulse Code Modulation) - speech encoding technique with a sampling rate of 8k samples per second and 8 bits per sample, giving a rate of 64 kbps
 
-- Multimedia protocols:
+- **Multimedia protocols:**
    - **RTSP** - network control protocol used for establishing and controlling media sessions between endpoints
    - **RTP** - used for carrying audio and video media streams
    - **RTCP** - provides out-of-band statistics and control info for RTP
@@ -103,7 +103,7 @@
 
 *****
 
-- Properties of secure communication:
+- **Properties of secure communication:**
    - **Confidentiality**, **Endpoint Authentication**, **Message Integrity**
 
 - **Encryption** - provides confidentiality by keeping data private
@@ -142,12 +142,12 @@
    - **SA** - network layer unidirectional logical connection
    - **IKE** - automated mechanism for creating SAs
 
-- Firewall categories: packet filters, stateful filters, application gateways
-- DoS attack categories: vulnerability attack, bandwidth flooding, connection flooding
+- **Firewall categories:** packet filters, stateful filters, application gateways
+- **DoS attack categories:** vulnerability attack, bandwidth flooding, connection flooding
 
 *****
 
-- Network management areas: performance, fault, configuration, security, accounting
-- Network management architecture components: manager (NMS), managed devices, agent (SNMP software)
+- **Network management areas:** performance, fault, configuration, security, accounting
+- **Network management architecture components:** manager (NMS), managed devices, agent (SNMP software)
 - **SNMP** - network management protocol used for conveying information and commands between the manager and an agent executing on behalf of that entity within a managed network device
    - request-response mode to query or modify **MIB** object values or unsolicited **trap messages** from the agents to the manager
