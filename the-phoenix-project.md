@@ -4,9 +4,9 @@
 
 ### Mission
 - You want the IT systems to be reliable and available and for the business to be able to depend upon them. You want disruptions to normal operations kept to an absolute minimum so that the business can focus on getting Phoenix done.
-- Your job as VP of IT operations is to ensure the fast, predictable, and uninterrupted flow of PLANNED work that delivers value to the business while minimizing the impact and disruption of UNPLANNED work, so you can provide stable, predictable, and secure IT service.
+- Your job as VP of IT operations is to ensure the fast, predictable, and uninterrupted flow of **planned work** that delivers value to the business while minimizing the impact and disruption of **unplanned work**, so you can provide stable, predictable, and secure IT service.
 - You win when you protect the organization without putting any meaningless work into the IT system. And you win even more when you can take meaningless work out of the IT system.
-- You need to know what matters to the achievement of the business objectives, whether it's Projects, Operations, Strategy, Compliance with laws and regulations, Security, or whatever. Remember, OUTCOMES are what matter - not the process, not the controls, or, for that matter, what work you complete.
+- You need to know what matters to the achievement of the business objectives, whether it's Projects, Operations, Strategy, Compliance with laws and regulations, Security, or whatever. Remember, **outcomes** are what matter - not the process, not the controls, or, for that matter, what work you complete.
 
 
 ### Planning
