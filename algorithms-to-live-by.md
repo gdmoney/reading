@@ -4,8 +4,8 @@
 
 ### Optimal Stopping
 - 2 ways to fail: stopping early or stopping late
-- Secretary Problem
-- 37% Rule - can be applied to applicants or to time
+- **Secretary Problem**
+- **37% Rule** - can be applied to applicants or to time
 - no information > **Look-Then-Leap Rule**
 - full information > **Threshold Rule** (58% success rate)
 - **Burglar Problem**
