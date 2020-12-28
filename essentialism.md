@@ -3,8 +3,8 @@
 
 
 ### Essence
-- relentless pursuit of less but better
-- ‎if you don't prioritize your life, someone else will
+- relentless pursuit of **less but better**
+- ‎**if you don't prioritize your life, someone else will**
 - ‎the pursuit of success can be a catalyst for failure
 - ‎decision fatigue: the more choices we are forced to make, the more the quality of our decisions deteriorates
 - ‎I **choose to**, instead of I **have to**
@@ -28,7 +28,7 @@
 - ‎the true essential intent is one that guides are greater sense of purpose, and helps you chart your life's path
 - ‎clarity about what is essential fuels us with the strength to say no to the nonessentials
 - ‎people respect and admire those with the courage of conviction to say no
-- ‎the endowment effect - our tendency to undervalue things that aren't ours and to overvalue things because we already own them
+- ‎**the endowment effect** - our tendency to undervalue things that aren't ours and to overvalue things because we already own them
 - ‎boundaries come at a high price, but not pushing back costs more: our ability to choose what is most essential in life
 
 
