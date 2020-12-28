@@ -12,7 +12,7 @@
 - the correctness of a statement cannot be determined by whether it is held by a majority or has been believed for a long time
 - a correct statement is one incapable of being rationally contradicted
 - **knowledge** - understanding not only why something is true, but also why its alternatives are false
-- the approval of others forms an essentia part of our capacity to believe that we are right
+- the approval of others forms an essential part of our capacity to believe that we are right
 - what should worry us is not the number of people who oppose us, but how good their reasons are for doing so
 - don't concentrate on the conclusions but on the logic used to reach them
 - societal life is beset with disparities between others' perceptions of us and our reality
@@ -36,9 +36,26 @@
     - "There is nothing dreadful in life for the man who has truly comprehended that there is nothing terrible in not living."
 
 
-### Frustration
-- asdfadsf
-- asdfadsf
+### Frustration - Seneca
+- at the heart of every frustration lies a basic structure: the collision of a wish with an unyielding reality
+- sources of our satisfaction lie beyond our control and the world does not conform to our desires
+- attain wisdom by learning not to aggravate the world's obstinacy through our own responses
+- what makes us angry are dangerously optimistic notions about what the world and other people are like
+- rage is causd by a conviction that a given frustration has not been writtedn into the contract of life
+- we will cease to be so angry once we cease to be so hopeful
+- we are injured most by what we do not expect, so we must expect everything
+- a subject's agency is only one of the causal factors determining events in the course of his or her life
+- the continuing belief that the world is fundamentally just is implied in the very complaint that there has been an injustice
+- not everything which happens **to**us occurs with reference to something **about** us
+- picture of a moral universe where external circumstances reflect internal qualities is flawed
+- bas things probably will occur, but they are unlikely ever to be as bas as we fear
+- once we look rationally at what will occur if our desires are not fulfilled, we will almost certainly find that the underlying problems are more modest than the anxieties they have bred
+- it is tempting, when we are hurt, to believe that the thing which hurt us **intended** to do so
+- **"What progress, you ask, have I made? I have begun to be a friend to myself."** (Hecato)
+- **"All ourdoors may be bedlam, provided that there is no disturbance within".**
+- wisdom lies in correctly discerning where we are free to mould reality according to our wishes and where we must accept the unalterable with tranquility
+- we may be powerless to alter certain events, but we remain free to choose our attitude towards them
+- **"What need is there to weep over parts of life? The whole of it calls for tears."**
 
 
 ### Inadequacy
