@@ -1,3 +1,5 @@
+### Reading Log 2017
+
 | Title                               | Author(s)                             | Date Finished |
 | :---------------------------------- | :------------------------------------ | :-----------: |
 | Outliers: The Story of Success	  | Malcolm Gladwell                      |               |
