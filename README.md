@@ -1,7 +1,7 @@
 **Book notes, quotes, and passages.**
 
 *****
-[Reading Log 2020](/reading-log-2020.md) • [Reading Log 2019](/reading-log-2019.md) • [Reading Log 2018](/reading-log-2018.md) • [Reading Log 2017](/reading-log-2017.md)
+**[Reading Log 2020](/reading-log-2020.md)** • **[Reading Log 2019](/reading-log-2019.md)** • **[Reading Log 2018](/reading-log-2018.md)** • **[Reading Log 2017](/reading-log-2017.md)**
 
 *****
 
