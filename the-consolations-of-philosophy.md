@@ -21,7 +21,7 @@
 
 
 ### Not Having Enough Money - Epicurus
-- "Nothing satisfies the man who is not satisfied with a little."
+- **"Nothing satisfies the man who is not satisfied with a little."**
 - objects mimic in a material dimension what we require in a psychological one
 - we are enticed through the sly association of superfluous objects with our other, forgotten needs
 - the needs which expensive good cater to cannot be those on which our happiness depends
