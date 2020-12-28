@@ -28,12 +28,12 @@
 - happiness mayh be difficult to attain, but the obstacles are not primarily financial
 - **Happiness acquisition list**:
   - **Friendship**
-    - "Before you eat or drink anything, consider carefully who you eat or drink with rather than what you eat or drink."
+    - **"Before you eat or drink anything, consider carefully who you eat or drink with rather than what you eat or drink."**
     - true friends do not evaluate us according to worldly criteria, it is the core self they are interested in
   - **Freedom**
     - accept a simpler way of life in exchange for independence
   - **Thought**
-    - "There is nothing dreadful in life for the man who has truly comprehended that there is nothing terrible in not living."
+    - **"There is nothing dreadful in life for the man who has truly comprehended that there is nothing terrible in not living."**
 
 
 ### Frustration - Seneca
@@ -52,7 +52,7 @@
 - once we look rationally at what will occur if our desires are not fulfilled, we will almost certainly find that the underlying problems are more modest than the anxieties they have bred
 - it is tempting, when we are hurt, to believe that the thing which hurt us **intended** to do so
 - **"What progress, you ask, have I made? I have begun to be a friend to myself."** (--*Hecato*)
-- **"All ourdoors may be bedlam, provided that there is no disturbance within".**
+- **"All ourdoors may be bedlam, provided that there is no disturbance within."**
 - wisdom lies in correctly discerning where we are free to mould reality according to our wishes and where we must accept the unalterable with tranquility
 - we may be powerless to alter certain events, but we remain free to choose our attitude towards them
 - **"What need is there to weep over parts of life? The whole of it calls for tears."**
