@@ -8,7 +8,7 @@
 - we think that societal conventions must have a sound basis because they have been adhered to by many people for a long time
 - we refrain from questioning the status quo because we associate what is popular with what is right
 - why do we assume that the task of directing one's life could be undertaken without any sustained reflection on premises or goals?
-- the established views have frequently emerged not through a process of faultless reasoning, but through centries of intellectual muddle
+- the established views have frequently emerged not through a process of faultless reasoning, but through centuries of intellectual muddle
 - the correctness of a statement cannot be determined by whether it is held by a majority or has been believed for a long time
 - a correct statement is one incapable of being rationally contradicted
 - **knowledge** - understanding not only why something is true, but also why its alternatives are false
@@ -16,7 +16,7 @@
 - what should worry us is not the number of people who oppose us, but how good their reasons are for doing so
 - don't concentrate on the conclusions but on the logic used to reach them
 - societal life is beset with disparities between others' perceptions of us and our reality
-- the validity of an idea or action is determined not by whether it is widely believed or widely reviled but by whether it obeys the rules of logic
+- the validity of an idea or action is determined not by whether it is widely believed but by whether it obeys the rules of logic
 - strive to listen to the dictates of logic and not just to the public opinion
 
 
@@ -41,7 +41,7 @@
 - sources of our satisfaction lie beyond our control and the world does not conform to our desires
 - attain wisdom by learning not to aggravate the world's obstinacy through our own responses
 - what makes us angry are dangerously optimistic notions about what the world and other people are like
-- rage is causd by a conviction that a given frustration has not been writtedn into the contract of life
+- rage is causd by a conviction that a given frustration has not been written into the contract of life
 - we will cease to be so angry once we cease to be so hopeful
 - we are injured most by what we do not expect, so we must expect everything
 - a subject's agency is only one of the causal factors determining events in the course of his or her life
