@@ -4,7 +4,7 @@
 
 ### Unpopularity - *Socrates*
 - rational, as opposed to hysterical, confidence when faced with disapproval
-- every society has notions of what one should believe and how one should have in ordrer to avoid suspicion and unpopularity
+- every society has notions of what one should believe and how one should have in order to avoid suspicion and unpopularity
 - we think that societal conventions must have a sound basis because they have been adhered to by many people for a long time
 - we refrain from questioning the status quo because we associate what is popular with what is right
 - why do we assume that the task of directing one's life could be undertaken without any sustained reflection on premises or goals?
