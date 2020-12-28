@@ -58,16 +58,16 @@
 - **"What need is there to weep over parts of life? The whole of it calls for tears."**
 
 
-### Inadequacy
+### Inadequacy - Montaigne
 - asdfadsf
 - asdfadsf
 
 
-### A Broken Heart
+### A Broken Heart - Schopenhauer
 - asdfadsf
 - asdfadsf
 
 
-### Difficulties
+### Difficulties - Nietzsche
 - asdfadsf
 - asdfadsf
