@@ -2,7 +2,7 @@
 -- *Alain de Botton*
 
 
-### Unpopularity - Socrates
+### Unpopularity - *Socrates*
 - rational, as opposed to hysterical, confidence when faced with disapproval
 - every society has notions of what one should believe and how one should have in ordrer to avoid suspicion and unpopularity
 - we think that societal conventions must have a sound basis because they have been adhered to by many people for a long time
@@ -20,7 +20,7 @@
 - strive to listen to the dictates of logic and not just the public opinion
 
 
-### Not Having Enough Money - Epicurus
+### Not Having Enough Money - *Epicurus*
 - **"Nothing satisfies the man who is not satisfied with a little."**
 - objects mimic in a material dimension what we require in a psychological one
 - we are enticed through the sly association of superfluous objects with our other, forgotten needs
@@ -36,7 +36,7 @@
     - **"There is nothing dreadful in life for the man who has truly comprehended that there is nothing terrible in not living."**
 
 
-### Frustration - Seneca
+### Frustration - *Seneca*
 - at the heart of every frustration lies a basic structure: the collision of a wish with an unyielding reality
 - sources of our satisfaction lie beyond our control and the world does not conform to our desires
 - attain wisdom by learning not to aggravate the world's obstinacy through our own responses
@@ -58,16 +58,16 @@
 - **"What need is there to weep over parts of life? The whole of it calls for tears."**
 
 
-### Inadequacy - Montaigne
+### Inadequacy - *Montaigne*
 - asdfadsf
 - asdfadsf
 
 
-### A Broken Heart - Schopenhauer
+### A Broken Heart - *Schopenhauer*
 - asdfadsf
 - asdfadsf
 
 
-### Difficulties - Nietzsche
+### Difficulties - *Nietzsche*
 - asdfadsf
 - asdfadsf
