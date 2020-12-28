@@ -17,15 +17,15 @@
 - don't concentrate on the conclusions but on the logic used to reach them
 - societal life is beset with disparities between others' perceptions of us and our reality
 - the validity of an idea or action is determined not by whether it is widely believed or widely reviled but by whether it obeys the rules of logic
-- strive to listen to the dictates of logic and not just the public opinion
+- strive to listen to the dictates of logic and not just to the public opinion
 
 
 ### Not Having Enough Money - *Epicurus*
 - **"Nothing satisfies the man who is not satisfied with a little."**
 - objects mimic in a material dimension what we require in a psychological one
 - we are enticed through the sly association of superfluous objects with our other, forgotten needs
-- the needs which expensive good cater to cannot be those on which our happiness depends
-- happiness mayh be difficult to attain, but the obstacles are not primarily financial
+- the needs which expensive goods cater to cannot be those on which our happiness depends
+- happiness may be difficult to attain, but the obstacles are not primarily financial
 - **Happiness acquisition list**:
   - **Friendship**
     - **"Before you eat or drink anything, consider carefully who you eat or drink with rather than what you eat or drink."**
@@ -46,9 +46,9 @@
 - we are injured most by what we do not expect, so we must expect everything
 - a subject's agency is only one of the causal factors determining events in the course of his or her life
 - the continuing belief that the world is fundamentally just is implied in the very complaint that there has been an injustice
-- not everything which happens **to**us occurs with reference to something **about** us
+- not everything which happens **to** us occurs with reference to something **about** us
 - picture of a moral universe where external circumstances reflect internal qualities is flawed
-- bas things probably will occur, but they are unlikely ever to be as bas as we fear
+- bad things probably will occur, but they are unlikely ever to be as bad as we fear
 - once we look rationally at what will occur if our desires are not fulfilled, we will almost certainly find that the underlying problems are more modest than the anxieties they have bred
 - it is tempting, when we are hurt, to believe that the thing which hurt us **intended** to do so
 - **"What progress, you ask, have I made? I have begun to be a friend to myself."** (-- *Hecato*)
