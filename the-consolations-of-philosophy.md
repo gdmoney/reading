@@ -51,7 +51,7 @@
 - bas things probably will occur, but they are unlikely ever to be as bas as we fear
 - once we look rationally at what will occur if our desires are not fulfilled, we will almost certainly find that the underlying problems are more modest than the anxieties they have bred
 - it is tempting, when we are hurt, to believe that the thing which hurt us **intended** to do so
-- **"What progress, you ask, have I made? I have begun to be a friend to myself."** (--*Hecato*)
+- **"What progress, you ask, have I made? I have begun to be a friend to myself."** (-- *Hecato*)
 - **"All ourdoors may be bedlam, provided that there is no disturbance within."**
 - wisdom lies in correctly discerning where we are free to mould reality according to our wishes and where we must accept the unalterable with tranquility
 - we may be powerless to alter certain events, but we remain free to choose our attitude towards them
