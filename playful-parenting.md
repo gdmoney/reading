@@ -1,4 +1,4 @@
-## [Playful Parenting](/playful-parenting.md)
+## Playful Parenting
 -- *Lawrence J. Cohen*
 
 

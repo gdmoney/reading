@@ -1,4 +1,4 @@
-## [The Phoenix Project](/the-phoenix-project.md)
+## The Phoenix Project
 -- *Gene Kim, Kevin Behr, George Spafford*
 
 

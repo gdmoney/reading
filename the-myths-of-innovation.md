@@ -1,4 +1,4 @@
-## [The Myths of Innovation](/the-myths-of-innovation.md)
+## The Myths of Innovation
 -- *Scott Berkun*
 
 

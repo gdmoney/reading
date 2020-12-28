@@ -1,4 +1,4 @@
-### [Computer Networking](/computer-networking.md)
+## Computer Networking
 -- *James Kurose, Keith Ross*
 
 

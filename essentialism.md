@@ -1,4 +1,4 @@
-## [Essentialism](/essentialism.md)
+## Essentialism
 -- *Greg McKeown*
 
 

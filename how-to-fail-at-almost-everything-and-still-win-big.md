@@ -1,4 +1,4 @@
-## [How to Fail at Almost Everything and Still Win Big](/how-to-fail-at-almost-everything-and-still-win-big.md)
+## How to Fail at Almost Everything and Still Win Big
 -- *Scott Adams*
 
 

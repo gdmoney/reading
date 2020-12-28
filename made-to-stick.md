@@ -1,4 +1,4 @@
-## [Made to Stick](/made-to-stick.md)
+## Made to Stick
 -- *Chip Heath and Dan Heath*
 
 
