@@ -21,19 +21,19 @@
 
 
 ### Not Having Enough Money - *Epicurus*
-- **"Nothing satisfies the man who is not satisfied with a little."**
+- ***"Nothing satisfies the man who is not satisfied with a little."***
 - objects mimic in a material dimension what we require in a psychological one
 - we are enticed through the sly association of superfluous objects with our other, forgotten needs
 - the needs which expensive goods cater to cannot be those on which our happiness depends
 - happiness may be difficult to attain, but the obstacles are not primarily financial
 - **Happiness acquisition list**:
   - **Friendship**
-    - **"Before you eat or drink anything, consider carefully who you eat or drink with rather than what you eat or drink."**
+    - ***"Before you eat or drink anything, consider carefully who you eat or drink with rather than what you eat or drink."***
     - true friends do not evaluate us according to worldly criteria, it is the core self they are interested in
   - **Freedom**
     - accept a simpler way of life in exchange for independence
   - **Thought**
-    - **"There is nothing dreadful in life for the man who has truly comprehended that there is nothing terrible in not living."**
+    - ***"There is nothing dreadful in life for the man who has truly comprehended that there is nothing terrible in not living."***
 
 
 ### Frustration - *Seneca*
@@ -51,11 +51,11 @@
 - bad things probably will occur, but they are unlikely ever to be as bad as we fear
 - once we look rationally at what will occur if our desires are not fulfilled, we will almost certainly find that the underlying problems are more modest than the anxieties they have bred
 - it is tempting, when we are hurt, to believe that the thing which hurt us **intended** to do so
-- **"What progress, you ask, have I made? I have begun to be a friend to myself."** (-- *Hecato*)
-- **"All ourdoors may be bedlam, provided that there is no disturbance within."**
+- ***"What progress, you ask, have I made? I have begun to be a friend to myself."*** (-- *Hecato*)
+- ***"All ourdoors may be bedlam, provided that there is no disturbance within."***
 - wisdom lies in correctly discerning where we are free to mould reality according to our wishes and where we must accept the unalterable with tranquility
 - we may be powerless to alter certain events, but we remain free to choose our attitude towards them
-- **"What need is there to weep over parts of life? The whole of it calls for tears."**
+- ***"What need is there to weep over parts of life? The whole of it calls for tears."***
 
 
 ### Inadequacy - *Montaigne*
@@ -65,7 +65,7 @@
 - learn to accept our physical faults as unalterable facts of our condition, neither so terrible nor so humiliating
 - nothing that can happen to man is inhuman
 - true wisdom must involve an accommodation with our baser selves
-- in contrast to Epicurean and Stoic pholosophies which has suggested that we could achieve mastery over our bodies
+- in contrast to **Epicurean** and **Stoic** pholosophies which has suggested that we could achieve mastery over our bodies
 - people are quick and arrogant to divide the world into two camps, the camp of the **normal** and that of the **abnormal**
 - the definition of normality proposed by any given society seems to capture only a fraction of what is in fact reasonable
 - and unfairly condemns vast areas of experience to an alien status
@@ -75,7 +75,7 @@
 - unfamiliar =/= inadequate
 - accusations of abnormality are regionally and historically founded
 - a friend is someone kind enough to consider more of us normal than most people do
-- **"If man were wise, he would gauge the true worth of anything by its usefulness and appropriateness to his life."**
+- ***"If man were wise, he would gauge the true worth of anything by its usefulness and appropriateness to his life."***
 - **Knowledge**
   - **Learning** - logic, etymology, grammar, etc.
   - **Wisdom** - everything that could help a person to live well - happily and morally
@@ -88,7 +88,7 @@
 - **will-to-life** - an inherent drive within human beings to stay alive and reproduce
 - will-to-life drives us towards people who will raise our chances of producing beautiful and intelligent offspring
 - love is nothing but the conscious manifestation of the will-to-life's discovery of an ideal co-parent
-- **"Everyone endeavours to eliminate through the other individual his own weaknesses, defects, and deviations from the type."**
+- ***"Everyone endeavours to eliminate through the other individual his own weaknesses, defects, and deviations from the type."***
 - the pursuit of personal happiness and the production of healthy children are two radically contrasting projects, which love maliciously confuses us into thinking of as one
 - we must never allow our suffering to be compounded by suggestions that there is something odd in suffering so deeply
 - it is consoling, when love has let us down, to hear that happiness was never part of the plan
