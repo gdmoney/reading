@@ -7,7 +7,7 @@
 **Simple**     - finding the core of the idea; elegant; lead; compact  
 **Unexpected** - get attention > surprise; hold attention > interest  
 **Concrete**   - concrete images vs ambiguous/abstract; common language  
-**Credible**   - believe; use vivid, compellig details; stats  
+**Credible**   - believe; use vivid, compelling details; stats  
 **Emotional**  - care; create empathy; appeal to self-interest and identity  
 **Story**      - act; engagement; mental simulation and inspiration > action  
 

@@ -8,7 +8,7 @@
 - this meaning is **unique** and it must and can be fulfilled by him alone
 - it differs from man to man, from day to day and from hour to hour
 - there is no **general** meaning of life in but rather the **specific** meaning of a person's life at a given moment
-- it's not about what **we expect** from life, but rather what **life efxpects** from us
+- it's not about what **we expect** from life, but rather what **life expects** from us
 - the meaning is not found in talk or meditation but in right **action** and right **conduct**
 - it's our responsibility to find the answers to life's problems and to fulfill our tasks which life constantly sets for each person
 - these **tasks** differ from man to man and from moment to moment, thus it's impossible to define the meaning of life in general terms
@@ -22,7 +22,7 @@
 - we are never left with nothing as long as we retain the freedom to **choose** how we will **respond**
 - suffering, like gas, **completely** fills the human soul and conscious mind, no matter whether the suffering is great or little
 - difficult **external** situations are opportunities to grow **internally**
-- transform tragety into triumph and turn a predicament into achievement
+- transform tragedy into triumph and turn a predicament into achievement
 - suffering **ceases** to be suffering at the moment it finds a **meaning**, such as the meaning of a sacrifice
 
 

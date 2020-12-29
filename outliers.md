@@ -3,7 +3,7 @@
 
 
 - **Outliers** - people who do extraordinary things
-- we tend to focus only on the individuals -  their charasteristics, habits, and personality traits
+- we tend to focus only on the individuals -  their characteristics, habits, and personality traits
 - in addition to their **intelligence** and **personalities**, they were beneficiaries of hidden **advantages**, special **opportunities**, and **cultural** legacies
 - **success** is not just a matter of individual **merit**
 - **achievement** = (talent + preparation + effort) + (advantage + opportunity + culture)

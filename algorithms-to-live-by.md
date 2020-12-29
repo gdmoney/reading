@@ -38,7 +38,7 @@
 - **LRU** algorithm - evicting the item that's gone the longest untouched
 - **temporal locality** - if a program has called for a particular piece of information once, it's likely to do so again in the near future
 - best guide to the future is a mirror image of the past
-- milti-level memory hierarchy - from smallest and fastest to largest and slowest
+- multi-level memory hierarchy - from smallest and fastest to largest and slowest
 
 
 ### Scheduling
@@ -68,7 +68,7 @@
 - how many factors to consider when making a decision
 - more complex models are often worse due to noise
 - **Cross-Validation** - assessing not only how well a model fits the data it's given, but how well it generalizes to data it hasn't seen
-- **Regulatization** - using constraints that penalize models for their complexity
+- **Regularization** - using constraints that penalize models for their complexity
 - **Early Stopping** - full data and low uncertainty > stop late; limited data and high uncertainty > stop early
 
 
@@ -83,7 +83,7 @@
 
 
 ### Randomness
-- making use of chance can be a deliberate and effective part of aproaching the hardest sets of problems
+- making use of chance can be a deliberate and effective part of approaching the hardest sets of problems
 - randomized vs deterministic algorithms
 - **Monte Carlo Method** - replacing exhaustive probability calculations with sample simulations
 - **time and space** vs **certainty**
@@ -98,7 +98,7 @@
 
 
 ### Game Theory
-- study of theoreticaly ideal strategies for games and scenario sof cooperation and competition
+- study of theoretically ideal strategies for games and scenarios of cooperation and competition
 - **Algorithmic Game Theory** - how people come up with strategies for games
 - **Halting Problem** - a computer program can never tell you for sure whether another program might end up calculating forever without end - except by simulating the operation of that program
 - **Recursion** - any time a system simulates the workings of something as complex as itself, it finds its resources totally maxed out, more or less by definition

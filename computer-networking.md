@@ -24,7 +24,7 @@
 
 - **ARQ** (Automatic Repeat reQuest) protocols capabilities:
   - error detection - timeout
-  - receiver feedback - ack
+  - receiver feedback - ACK
   - retransmission
 
 - **TCP**
@@ -46,8 +46,8 @@
    - at the output port, chooses one packet among those queued for transmission
    - plays a crucial role in providing QoS
 
-- **Routing algorithm classificaton:**
-   - **Adaptive** vs **Oblivious** (routing decisions based on network state (load, conggestion))
+- **Routing algorithm classification:**
+   - **Adaptive** vs **Oblivious** (routing decisions based on network state (load, congestion))
    - **Global** vs **Decentralized**; aka link-state vs distance-vector
    - **Static** vs **Dynamic**
    - **Intra-AS** vs **Inter-AS**
@@ -60,7 +60,7 @@
 
 - **Wireless network types:**
    - infrastructure-based single-hop (**WiFi**) or multi-hop (**Mesh**)
-   - infrstructure-less single-hop (**bluetooth**) or multi-hop (**MANET**)
+   - infrastructure-less single-hop (**bluetooth**) or multi-hop (**MANET**)
 
 - **Handoff** - mobile client moving from beyond the range of one AP into the range of another AP
 
@@ -118,11 +118,11 @@
    - it is computationally infeasible to find the input from the output
    - **MD5** and **SHA** hash algorithms are widely used
 
-- **MAC** performs message intergrity using hash functions with a shared key
+- **MAC** performs message integrity using hash functions with a shared key
    - does not require an encryption algorithm
    - **HMAC** is a popular standard and works with MD5 or SHA
 
-- **Digital Dignatures** - provide peer authentication, message integrity and non-repudiation
+- **Digital Signatures** - provide peer authentication, message integrity and non-repudiation
    - provides similar services as MAC but requires PKI
    - sender encrypts message's hash using his private key (aka signs it)
 

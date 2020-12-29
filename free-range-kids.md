@@ -9,7 +9,7 @@
 - independence / freedom
 - competence
 - resilience / fortitude
-- reponsibility
+- responsibility
 - free, unsupervised play
 - exploration / discovery
 - decision-making / problem-solving
