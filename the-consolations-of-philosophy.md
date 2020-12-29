@@ -77,7 +77,7 @@
 - a friend is someone kind enough to consider more of us normal than most people do
 - **"If man were wise, he would gauge the true worth of anything by its usefulness and appropriateness to his life."**
 - **Knowledge**
-  - **Learning** - logic, etymology, grammar
+  - **Learning** - logic, etymology, grammar, etc.
   - **Wisdom** - everything that could help a person to live well - happily and morally
 - an incomprehensible prose-style is likely to have resulted more from laziness than cleverness
 - if we attend properly to our experiences and learn to consider ourselves plausible candidates for an intellectual life, it is open to all of us to arrive at insights no less profound than those in the great ancient books
