@@ -59,8 +59,29 @@
 
 
 ### Inadequacy - *Montaigne*
-- asdfadsf
-- asdfadsf
+- misplaced confidence in reason was the well-spring of idiocy - and, indirectly, also of inadequacy
+- outlined a new kind of philosophy which acknowledged how far we were from the rationa, serence creatures whom most of the ancient thinkers had taken us to be
+- our bodies hold our minds hostage to their whims and rhythms
+- learn to accept our physical faults as unalterable facts of our condition, neither so terrible nor so humiliating
+- nothing that can happen to man is inhuman
+- true wisdom must involve an accommodation with our baser selves
+- in contrast to Epicurean and Stoic pholosophies which has suggested that we could achieve mastery over our bodies
+- people are quick and arrogant to divide the world into two camps, the camp of the **normal** and that of the **abnormal**
+- the definition of normality proposed by any given society seems to capture only a fraction of what is in fact reasonable
+- and unfairly condemns vast areas of experience to an alien status
+- our country might have many virtues, but these did not depend on it being **our** country
+- a foreign land might have many faults, but these could not be identified through the mere fact that its customs were unusual
+- nationality and familiarity were absurt criteria by which to decide on the good
+- unfamiliar =/= inadequate
+- accusations of abnormality are regionally and historically founded
+- a friend is someone kind enough to consider more of us normal than most people do
+- **"If man were wise, he would gauge the true worth of anything by its usefulness and appropriateness to his life."**
+- **Knowledge**
+  - **Learning** - logic, etymology, grammar
+  - **Wisdom** - everything that could help a person to live well - happily and morally
+- an incomprehensible prose-style is likely to have resulted more from laziness than cleverness
+- if we attend properly to our experiences and learn to consider ourselves plausible candidates for an intellectual life, it is open to all of us to arrive at insights no less profound than those in the great ancient books
+- a virtuous, ordinary life, stivig for wisdom but never far from folly, is achievement enough
 
 
 ### A Broken Heart - *Schopenhauer*
