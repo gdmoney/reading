@@ -81,12 +81,20 @@
   - **Wisdom** - everything that could help a person to live well - happily and morally
 - an incomprehensible prose-style is likely to have resulted more from laziness than cleverness
 - if we attend properly to our experiences and learn to consider ourselves plausible candidates for an intellectual life, it is open to all of us to arrive at insights no less profound than those in the great ancient books
-- a virtuous, ordinary life, stivig for wisdom but never far from folly, is achievement enough
+- a virtuous, ordinary life, striving for wisdom but never far from folly, is achievement enough
 
 
 ### A Broken Heart - *Schopenhauer*
-- asdfadsf
-- asdfadsf
+- **will-to-life** - an inherent drive within human beings to stay alive and reproduce
+- will-to-life drives us towards people who will raise our chances of producing beautiful and intelligent offspring
+- love is nothing but the conscious manifestation of the will-to-life's discovery of an ideal co-parent
+- **"Everyone endeavours to eliminate through the other individual his own weaknesses, defects, and deviations from the type."**
+- the pursuit of personal happiness and the production of healthy children are two radically contrasting projects, which love maliciously confuses us into thinking of as one
+- we must never allow our suffering to be compounded by suggestions that there is something odd in suffering so deeply
+- it is consoling, when love has let us down, to hear that happiness was never part of the plan
+- what we encounter in works of art and philosophy are objective versions of our own pains and struggles
+- they explain our condition to us, and thereby hep us to be less lonely with, and confused by it
+- there is consolation in realizing that our case is only one of thousands
 
 
 ### Difficulties - *Nietzsche*
