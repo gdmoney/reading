@@ -98,5 +98,22 @@
 
 
 ### Difficulties - *Nietzsche*
-- asdfadsf
-- asdfadsf
+- difficulties of every sort are to be welcomed by those seeking fulfilment
+- pain is natural and inevitable on the way to reachign anything good
+- the sources of our greatest joys lie awkwardly close to those of our greatest pains
+- in the interval between initial failure and subsequent success, in the gap between who we wish one day to be and who we are at present, must come pain, anxiety, envy and humiliation
+- we suffer because we cannot spontaneously master the ingredients of fulfilment
+- all lives are difficult; what makes some of them fulfilled as well is the manner in which pains have been met
+- in life there may be difficult emotions and situations which can nevertheless result in the greatest achievements and joys
+- most of us fail to recognize that anxiety and envy are valuable
+- to cut out every negative root would simultaneously mean choking off positive elements that might arise from it further up the stem of the plant
+- we should not feel embarassed by our difficulties, only by our failure to grow anything beautiful from them
+- ***"Happiness and unhappiness are sisters and even twins that either grow up together or remain small together."***
+- the New Testament consoles us by suggesting that many of our difficulties are not difficulties at all but rather virtues
+- inventors of Christianity fashioned a hypocritical creed denouncing what they wanted but were too weak to fight for while praising what they did not want but happened to have
+- addicted to 'the religion of comfortableness', Christians, in their value system, had given precedence to what was easy, not what was desirable, and so had drained life of its potential
+- we all become Christians when we profess indifference to what we secretly long for but do not have
+- approach our setbacks by continuing to believe in what we wish for, even when we don't have it, and may never have it
+- difficulties are critical prerequisites of fulfilment and saccharine consolations are ultimately more cruel than helpful
+- not everything which makes us feel better is good for us and not everything which hurts may be bad
+- ***"To regard states of distress in general as an objection, as something that must be abolished, is the supreme idiocy, in general sense a real disaster in its consequences...almost as stupid as the will to abolish bad weather."***
