@@ -41,7 +41,7 @@
 - sources of our satisfaction lie beyond our control and the world does not conform to our desires
 - attain wisdom by learning not to aggravate the world's obstinacy through our own responses
 - what makes us angry are dangerously optimistic notions about what the world and other people are like
-- rage is causd by a conviction that a given frustration has not been written into the contract of life
+- rage is caused by a conviction that a given frustration has not been written into the contract of life
 - we will cease to be so angry once we cease to be so hopeful
 - we are injured most by what we do not expect, so we must expect everything
 - a subject's agency is only one of the causal factors determining events in the course of his or her life
@@ -52,7 +52,7 @@
 - once we look rationally at what will occur if our desires are not fulfilled, we will almost certainly find that the underlying problems are more modest than the anxieties they have bred
 - it is tempting, when we are hurt, to believe that the thing which hurt us **intended** to do so
 - ***"What progress, you ask, have I made? I have begun to be a friend to myself."*** (-- *Hecato*)
-- ***"All ourdoors may be bedlam, provided that there is no disturbance within."***
+- ***"All outdoors may be bedlam, provided that there is no disturbance within."***
 - wisdom lies in correctly discerning where we are free to mould reality according to our wishes and where we must accept the unalterable with tranquility
 - we may be powerless to alter certain events, but we remain free to choose our attitude towards them
 - ***"What need is there to weep over parts of life? The whole of it calls for tears."***
@@ -60,18 +60,18 @@
 
 ### Inadequacy - *Montaigne*
 - misplaced confidence in reason was the well-spring of idiocy - and, indirectly, also of inadequacy
-- outlined a new kind of philosophy which acknowledged how far we were from the rationa, serence creatures whom most of the ancient thinkers had taken us to be
+- outlined a new kind of philosophy which acknowledged how far we were from the rational, serene creatures whom most of the ancient thinkers had taken us to be
 - our bodies hold our minds hostage to their whims and rhythms
 - learn to accept our physical faults as unalterable facts of our condition, neither so terrible nor so humiliating
 - nothing that can happen to man is inhuman
 - true wisdom must involve an accommodation with our baser selves
-- in contrast to **Epicurean** and **Stoic** pholosophies which has suggested that we could achieve mastery over our bodies
+- in contrast to **Epicurean** and **Stoic** philosophies which has suggested that we could achieve mastery over our bodies
 - people are quick and arrogant to divide the world into two camps, the camp of the **normal** and that of the **abnormal**
 - the definition of normality proposed by any given society seems to capture only a fraction of what is in fact reasonable
 - and unfairly condemns vast areas of experience to an alien status
 - our country might have many virtues, but these did not depend on it being **our** country
 - a foreign land might have many faults, but these could not be identified through the mere fact that its customs were unusual
-- nationality and familiarity were absurt criteria by which to decide on the good
+- nationality and familiarity were absurd criteria by which to decide on the good
 - unfamiliar =/= inadequate
 - accusations of abnormality are regionally and historically founded
 - a friend is someone kind enough to consider more of us normal than most people do
@@ -98,22 +98,22 @@
 
 
 ### Difficulties - *Nietzsche*
-- difficulties of every sort are to be welcomed by those seeking fulfilment
+- difficulties of every sort are to be welcomed by those seeking fulfillment
 - pain is natural and inevitable on the way to reachingS anything good
 - the sources of our greatest joys lie awkwardly close to those of our greatest pains
 - in the interval between initial failure and subsequent success, in the gap between who we wish one day to be and who we are at present, must come pain, anxiety, envy and humiliation
-- we suffer because we cannot spontaneously master the ingredients of fulfilment
+- we suffer because we cannot spontaneously master the ingredients of fulfillment
 - all lives are difficult; what makes some of them fulfilled as well is the manner in which pains have been met
 - in life there may be difficult emotions and situations which can nevertheless result in the greatest achievements and joys
 - most of us fail to recognize that anxiety and envy are valuable
 - to cut out every negative root would simultaneously mean choking off positive elements that might arise from it further up the stem of the plant
-- we should not feel embarassed by our difficulties, only by our failure to grow anything beautiful from them
+- we should not feel embarrassed by our difficulties, only by our failure to grow anything beautiful from them
 - ***"Happiness and unhappiness are sisters and even twins that either grow up together or remain small together."***
 - the New Testament consoles us by suggesting that many of our difficulties are not difficulties at all but rather virtues
 - inventors of Christianity fashioned a hypocritical creed denouncing what they wanted but were too weak to fight for while praising what they did not want but happened to have
 - addicted to 'the religion of comfortableness', Christians, in their value system, had given precedence to what was easy, not what was desirable, and so had drained life of its potential
 - we all become Christians when we profess indifference to what we secretly long for but do not have
 - approach our setbacks by continuing to believe in what we wish for, even when we don't have it, and may never have it
-- difficulties are critical prerequisites of fulfilment and saccharine consolations are ultimately more cruel than helpful
+- difficulties are critical prerequisites of fulfillment and saccharine consolations are ultimately more cruel than helpful
 - not everything which makes us feel better is good for us and not everything which hurts may be bad
 - ***"To regard states of distress in general as an objection, as something that must be abolished, is the supreme idiocy, in general sense a real disaster in its consequences...almost as stupid as the will to abolish bad weather."***
