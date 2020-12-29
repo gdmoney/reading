@@ -99,7 +99,7 @@
 
 ### Difficulties - *Nietzsche*
 - difficulties of every sort are to be welcomed by those seeking fulfilment
-- pain is natural and inevitable on the way to reachign anything good
+- pain is natural and inevitable on the way to reachingS anything good
 - the sources of our greatest joys lie awkwardly close to those of our greatest pains
 - in the interval between initial failure and subsequent success, in the gap between who we wish one day to be and who we are at present, must come pain, anxiety, envy and humiliation
 - we suffer because we cannot spontaneously master the ingredients of fulfilment
