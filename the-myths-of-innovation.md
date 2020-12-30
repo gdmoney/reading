@@ -2,13 +2,14 @@
 -- *Scott Berkun*
 
 
-- **innovation** is significant positive change; so if something is done regularly, it can not represent significant change
+- **Innovation** is significant positive change; so if something is done regularly, it can not represent significant change
 - any seemingly grand idea can be divided into an infinite series of smaller, previously known ideas
 - any major innovation or insight can be seen as the final piece of a complex puzzle falling into place
 - no grand innovation in history has escaped the long hours required to take an insight and work it into something useful to the world
 - what matters is the ability to see a problem clearly, combined with the talent to solve it
 - epiphany is largely irrelevant because it can't be controlled
 - there's no greater myth worth dispelling in the history of innovation than the idea that progress happens in a straight line
+- nearly every major innovation of the 20th century took place without claims of epiphany
 - six-pack of human shortcomings: greed, irrationality, short-sightedness, egotism, lack of imagination
 
 *****
@@ -74,8 +75,30 @@
   - **Economics** -will the costs of changing to the new thing be worth it?
   - **Short-term vs long-term thinking** - superior ideas can be rejected in favor of cheaper, shorter-term gains
 
+*****
 
+- successful innovation often involves paying more attention to problems than solutions
+- **"If I had 20 days to solve a problem, I would take 19 days to define it."** -- *Einstein*
+- **"A well-stated problem is half-solved."** -- *John Dewey*
+- **"There is nothing either good or bad, but thinking makes it so."**  -- *Shakespeare's Hamlet*
+- morality is invisible to the forces of innovation
+- what you do for good reasons may be used for bad, and what is done with bad motives can lead to good
+- as ridiculous as it is to accept all new ideas simply because they're new, it's equally silly to accept all traditions simply because they're traditions
+- ideas new and old have their place in the future, and it's our job to put them there
+
+*****
 
 - history is the best available tool for sorting out how things in this world tend to happen
-- ***"Sufficient repetition grants mastery of anything.***
-- nearly every major innovation of the 20th century took place without claims of epiphany
+- perhaps the greatest myth of all is that you need to be an expert in innovation in order to change the world
+- the gap from **knowing** to **doing** is enormous, and few people are willing to do the work to close that gap
+- the biggest difference between the greats and us was their dedication to their craft
+- **pitch** - the act of bringing an ideas to someone who has resources you need
+- most people do not like change - they fear it
+- pitchable idea must include a detailed proposal for converting the abstract idea into tangible and realistic plans
+- **Questions** to answer before pitching an idea:
+  - **what** problem does this solve?
+  - **whose** problem is this? **why** is it important to them?
+  - **how** will you solve the toughest challenges?
+  - do you have a working prototype?
+  - why are you the right person to solve this?
+  - **why** should they give you money/support/time to work on this?
