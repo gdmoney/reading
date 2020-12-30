@@ -5,6 +5,11 @@
 
 *****
 
+### [The Joy of X](/the-joy-of-x.md)
+-- *Steven Strogatz*
+
+*****
+
 ### [The Consolations of Philosophy](/the-consolations-of-philosophy.md)
 -- *Alain de Botton*
 
