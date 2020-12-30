@@ -25,7 +25,7 @@
 - ***`i^2 = -1`***
 - **The Fundamental Theorem of Algebra** - the roots of any polynomial are always complex numbers
 - **fractal** - an intricate shape whose inner structure repeats at finer and finer scales
-- **Compex Dynamics** - a blend of chaos theory, complex analysis, and fractal geometry
+- **Complex Dynamics** - a blend of chaos theory, complex analysis, and fractal geometry
 - **mathematical modeling** - making simplifying assumptions when solving word problems
 - ***`x = (-b ± √(b^2 - 4ac)) / 2a`*** - quadratic formula is the solution to any 
 - ***`ax^2 + bx + c = 0`*** - quadratic equation
@@ -34,10 +34,10 @@
 
 ### Shapes
 - ***`a^2 + b^2 = c^2`*** - Pythagorean theorem - implies that space is flat, as opposed to curved
-- **parabolas** and **ellipses** are both cross-secriions of the surface of a **cone**
+- **parabolas** and **ellipses** are both cross-sections of the surface of a **cone**
 - **conic sections** - curves obtained by cutting the surface of a cone with a plane: circles, ellipses, parabolas, hyperbolas
 - **since wave** - horizontal or vertical excursions of something moving in a circle
-- nature's most basic mechanism of pattern formation - the emrgence of sinusoidal structure from a background of bland uniformity
+- nature's most basic mechanism of pattern formation - the emergence of sinusoidal structure from a background of bland uniformity
 - ***`Pi = C / D`***
 - ***`A = Pir^2`***
 
@@ -53,14 +53,14 @@
 - the laws of physics are always expressed in the language of differential equations
 - **three-body problem** - contains the seeds of chaos and makes its behavior unpredictable in the long run, hence it's intractable
 - **vector** - a step that carries you from one place to another
-- **Maxwell's** *electronagmetic wave* unified three previously unrelated phenomena: *electricity*, *magnetism*, and *light*
+- **Maxwell's** *electromagnetic wave* unified three previously unrelated phenomena: *electricity*, *magnetism*, and *light*
 
 
 ### Data
 - **distribution** - things that seem random and unpredictable when viewed in isolation often turn out to be lawful and predictable when viewed in aggregate
 - **normal distribution** - an idealized version of the bell curve
 - **power-law distribution** - have heavy tails
-- **conditional probability** - the probability that some event **A** happens, given the occurence of some other event **B**
+- **conditional probability** - the probability that some event **A** happens, given the occurrence of some other event **B**
 
 
 ### Frontiers
