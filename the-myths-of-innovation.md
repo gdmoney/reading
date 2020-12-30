@@ -53,7 +53,7 @@
 
 - all innovations today are bound to innovations of the past
 - despite the myths, innovations rarely involve someone working alone
-- **"The best way to have a good idea is to have lots of ideas."**
+- **"The best way to have a good idea is to have lots of ideas."** -- *Linus Pauling*
 - anything can be used for things other than its intended purpose
 
 *****
