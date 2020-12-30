@@ -54,6 +54,7 @@
 
 
 ### Data
+- **distribution** - things that seem random and unpredictable when viewed in isolation often turn out to be lawful and predictable when viewed in aggregate
 - 
 
 
