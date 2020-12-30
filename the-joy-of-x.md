@@ -36,7 +36,8 @@
 - **conic sections** - curves obtained by cutting the surface of a cone with a plane: circles, ellipses, parabolas, hyperbolas
 - **since wave** - horizontal or vertical excursions of something moving in a circle
 - nature's most basic mechanism of pattern formation - the emrgence of sinusoidal structure from a background of bland uniformity
-- ***`Pi = C / D`*** , ***`A = Pir^2`***
+- ***`Pi = C / D`***
+- ***`A = Pir^2`***
 
 
 ### Change
