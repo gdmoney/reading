@@ -37,4 +37,31 @@
   - encourage cheating, shortcuts, and unethical behavior
   - become addictive
   - foster short-term thinking
+- without a fair and adequate baseline - compensation, benefits, etc. - any kind of motivation is difficult
+- for routine tasks, which aren't very interesting and don't demand much creative thinking, rewards can provide a small motivational boost without the harmful side effects
+- any extrinsic reward should be **unexpected** and offered only **after** the task is complete
+- holding out a prize at the beginning of a project will inevitably focus people's attention on obtaining the reward rather than on attacking the problem
+- shift from **if-then** rewards to **now that** rewards, but don't let now that rewards become the expected norm
+- **non-tangible rewards** - praise regarding effort and strategy vs achieving a particular outcome and positive feedback focused on specifics
+- human beings have an universal, innate drive to be **autonomous**, **self-determined**, and **connected** to one another
+- **Type I** behavior is fueled more by intrinsic desires than extrinsic ones and cares more about the inherent satisfaction of the activity itself
+- it's main motivators are freedom, challenge, and purpose of the undertaking itself
+- it is self-directed and is devoted to becoming better and better at something that matters
+
+
+### Autonomy
+- **ROWE** - results-only work environment
+- management's paramount goal is *compliance* and its central ethic remains *control*
+- management should be about creating conditions for people to do their best work
+- a sense of autonomy has a powerful effect on individual performance and attitude
+- **Components**:
+  - **Task** - freedom to spend a portion of time on a personal or side project
+  - **Time** - focus on what people get done, not how many hours or days worked
+  - **Technique** - restores some measure of freedom and draws from a deeper pool of talent
+  - **Team** - people working in self-organized teams are more satisfied than those working in inherited teams
+- different individuals will prize different aspects of autonomy
+- encouraging autonomy doesn't mean discouraging accountability, people *want* to be accountable
+
+
+### Mastery
 - 
