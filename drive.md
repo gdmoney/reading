@@ -14,7 +14,8 @@
 - **routine**, not-so-interesting jobs require direction
 - **non-routine**, more interesting work depends on self-direction
 - **Motivation 2.0** two main ideas:
-  - **rewarding** an activity will get you more of it and **punishing** an activity will get you less of it
+  - **rewarding** an activity will get you more of it
+  - **punishing** an activity will get you less of it
 - the best use of money as a motivator is to pay people enough to take the issue of money off the table
 - rewards can transform an interesting task into a drudge and turn play into work
 - **contingent** or **if-then** rewards have a negative effect because they require people to lose their autonomy
