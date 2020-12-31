@@ -2,10 +2,10 @@
 -- *Daniel H. Pink*
 
 
-### New Operating System for Motivation
+### Operating Systems for Motivation
 - when money is used as an external reward for some activity, people lose intrinsic interest for the activity
-- **Motivation 1.0 OS** - survival
-- **Motivation 2.0 OS** - improve performance, increase productivity, and encourage excellence by rewarding the good and punishing the bad
+- **Motivation 1.0** - survival
+- **Motivation 2.0** - improve performance, increase productivity, and encourage excellence by rewarding the good and punishing the bad
 - **extrinsic motivation** - "if-then" rewards, bonuses, incentive plans, forced rankings
 - **Daniel Kahneman** showed that people aren't rational calculators of their economic self-interest
 - **algorithmic task** - you follow a set of established instructions down a  single pathway to one conclusion
@@ -44,6 +44,7 @@
 - shift from **if-then** rewards to **now that** rewards, but don't let now that rewards become the expected norm
 - **non-tangible rewards** - praise regarding effort and strategy vs achieving a particular outcome and positive feedback focused on specifics
 - human beings have an universal, innate drive to be **autonomous**, **self-determined**, and **connected** to one another
+- **Motivation 3.0** - assumes that humans also have a third drive - to learn, to create, and to better the world
 - **Type I** behavior is fueled more by intrinsic desires than extrinsic ones and cares more about the inherent satisfaction of the activity itself
 - it's main motivators are freedom, challenge, and purpose of the undertaking itself
 - it is self-directed and is devoted to becoming better and better at something that matters
