@@ -30,4 +30,4 @@
 - mechanically vs skill oriented agriculture - using more equipment vs better managing existing farms in order to achieve higher yields
 - **SSLANT** - Smile, Sit up, Listen, Ask questions, Nod when being spoken to, Track with your eyes
 - **Achievement Gap** - difference in test scores between kids from rich and poor households
-- school days per year: USA (180), South Korea (220), Japan (243)
+- number of school days per year: USA (180), South Korea (220), Japan (243)
