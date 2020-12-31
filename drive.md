@@ -90,7 +90,7 @@ When it comes to motivation, there's a gap between what science knows and what b
   - **Goals** - **purpose** over **profit** - pursue purpose and to use profit as the catalyst rather than the objective
   - **Words** - focus on the **why** vs the **how** in order to provide context for how what they do contributes to a larger whole
   - **Policies** - give employees control over how the organization give back to the community
-- **One cannot lead a life that is truly excellent without feeling that one belongs to something greater and more permanent than oneself.** -- *Mihaly Csikszentmihalyi*
+- **"One cannot lead a life that is truly excellent without feeling that one belongs to something greater and more permanent than oneself."** -- *Mihaly Csikszentmihalyi*
 - people who are very high in extrinsic goals for wealth are more likely to attain that wealth, but they're still unhappy
 - high attainers are busy making money which leaves less time for things that truly count for happiness - close relationships, love, caring
 - the secret to high performance isn't our biological or our reward-and-punishment drive, but our deep-seated desire to direct our own lives, to extend and expand our abilities, and to make a contribution
