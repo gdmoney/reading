@@ -65,4 +65,21 @@
 
 
 ### Mastery
-- 
+- autonomy leads to **engagement**, control leads to **compliance**
+- **mastery** - the desire to get better and better at something that matters
+- the most satisfying experiences in people's lives are when they are in the **flow state**
+- flaw is essential to mastery but it happens in a moment while mastery unfolds over months, years, decades
+- **Laws of Mastery**:
+  - **Mastery is a Mindset** - **fixed** mindset vs **growth** mindset
+  - **Mastery is a Pain** - **grit** - perseverance and passion for long-term goals - is the best predictor of success
+  - **Mastery is an Asymptote** - mastery is impossible to realize fully, the joy is in the pursuit
+- the single greatest motivator is making progress in one's work
+- once we realize that the boundaries between work and play are artificial, we can take matters in hand and begin the difficult task of making life more livable
+
+
+### Purpose
+- autonomous people working toward mastery *and* in service of some greater objective can achieve even more
+- **Realms of Organizational Life**:
+  - **Goals** - **purpose** over **profit** - pursue purpose and to use profit as the catalyst rather than the objective
+  - **Words** - 
+  - **Policies** -

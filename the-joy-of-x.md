@@ -3,7 +3,7 @@
 
 
 ### Numbers
-- math involves both invention *and* discovery: we invent the concepts but discover their consequences
+- math involves both *invention* and *discovery*: we invent the concepts but discover their consequences
 - ***`a x b = b x a`*** - Commutative Law
 - ***`(a x b) x c = a x (b x c)`*** - Associative Law
 - ***`a x (b + c) = ab + ac`*** - Distributive Law
