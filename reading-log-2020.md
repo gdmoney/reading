@@ -16,3 +16,4 @@
 | The Martian                         | Andy Weir                       | 08.02         |
 | Conscious                           | Annaka Harris                   | 11.15         |
 | The Consolations of Philosophy      | Alain de Botton                 | 12.15         |
+| Understand                          | Ted Chiang                      | 12.30         |
