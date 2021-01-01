@@ -10,7 +10,7 @@ When it comes to motivation, there's a gap between what science knows and what b
 
 
 ### Operating Systems for Motivation
-- when money is used as an external reward for some activity, people lose intrinsic interest for the activity
+- when money is used as an *external* reward for some activity, people lose *intrinsic* interest for the activity
 - **Motivation 1.0** - survival
 - **Motivation 2.0** - improve performance, increase productivity, and encourage excellence by rewarding the good and punishing the bad
 - **extrinsic motivation** - "if-then" rewards, bonuses, incentive plans, forced rankings
@@ -33,9 +33,9 @@ When it comes to motivation, there's a gap between what science knows and what b
 - **intrinsic motivation** - the drive to do something because it is interesting, challenging, and absorbing - is essential for high levels of creativity
 - **if-then** rewards usually do more harm than good by neglecting the ingredients of genuine motivation: **Autonomy**, **Mastery**, and **Purpose**
 - with extrinsic rewards, people will choose the quickest route there, even if it means taking the low road
-- with intrinsic motivation, the wards is the activity itself
+- with intrinsic motivation, the rewards is the activity itself
 - by offering a reward, a principal signals to the agent that the task is inherently undesirable
-- if-then rewards focus people on the short-term prize and crowds out long-term learning
+- **if-then** rewards focus people on the short-term prize and crowds out long-term learning
 - **Carrots and Sticks Flaws**:
   - extinguish intrinsic motivation
   - diminish performance
@@ -72,7 +72,7 @@ When it comes to motivation, there's a gap between what science knows and what b
 
 
 ### Mastery
-- autonomy leads to **engagement**, control leads to **compliance**
+- autonomy leads to *engagement*, control leads to *compliance*
 - **mastery** - the desire to get better and better at something that matters
 - the most satisfying experiences in people's lives are when they are in the **flow state**
 - flaw is essential to mastery but it happens in a moment while mastery unfolds over months, years, decades
@@ -87,8 +87,8 @@ When it comes to motivation, there's a gap between what science knows and what b
 ### Purpose
 - autonomous people working toward mastery *and* in service of some greater objective can achieve even more
 - **Realms of Organizational Life**:
-  - **Goals** - **purpose** over **profit** - pursue purpose and to use profit as the catalyst rather than the objective
-  - **Words** - focus on the **why** vs the **how** in order to provide context for how what they do contributes to a larger whole
+  - **Goals** - *purpose* over *profit* - pursue purpose and to use profit as the catalyst rather than the objective
+  - **Words** - focus on the *why* vs the *how* in order to provide context for how what they do contributes to a larger whole
   - **Policies** - give employees control over how the organization give back to the community
 - **"One cannot lead a life that is truly excellent without feeling that one belongs to something greater and more permanent than oneself."** -- *Mihaly Csikszentmihalyi*
 - people who are very high in extrinsic goals for wealth are more likely to attain that wealth, but they're still unhappy
