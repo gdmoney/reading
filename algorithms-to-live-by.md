@@ -33,7 +33,7 @@
 
 ### Caching
 - what to keep and how to arrange it
-- time vs space (small and fast or big and slow)
+- **time vs space** (small and fast or big and slow)
 - cache eviction
 - **LRU** algorithm - evicting the item that's gone the longest untouched
 - **temporal locality** - if a program has called for a particular piece of information once, it's likely to do so again in the near future
@@ -42,7 +42,7 @@
 
 
 ### Scheduling
-- speed vs accuracy (slow and accurate/robust or fast and error prone/brittle)
+- **speed vs accuracy** (slow and accurate/robust or fast and error prone/brittle)
 - maximize overlap
 - debt avalanche (amount) vs debt snowball (quantity)
 - **precedence constraint** - a certain task can't be started until another one is finished
@@ -50,7 +50,7 @@
 - **context switching** - overhead of wasted time when a processor shifts its attention away from a given program; metawork
 - **thrashing** - a system running full-tilt, grinds to a halt, accomplishing nothing because it's entirely preoccupied with metawork
 - **interrupt coalescing** - interrupt moderation, to minimize context switching
-- responsiveness vs throughput (cost is delay) - how quickly you can respond to things, and how much you can get done overall
+- **responsiveness vs throughput** (cost is delay) - how quickly you can respond to things, and how much you can get done overall
 
 
 ### Bayes's Rule
@@ -90,7 +90,7 @@
 
 
 ### Networking
-- protocol - a shared convention of procedures and expectations
+- **Protocol** - a shared convention of procedures and expectations
 - how do you know when your messages are getting through?
 - **Two Generals Problem**
 - **Exponential Backoff** algorithm - increasing the average delay after every successive failure before trying to transmit again

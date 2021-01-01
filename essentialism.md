@@ -4,10 +4,10 @@
 
 ### Essence
 - relentless pursuit of **less but better**
-- ‎**if you don't prioritize your life, someone else will**
+- ‎***"If you don't prioritize your life, someone else will."***
 - ‎the pursuit of success can be a catalyst for failure
 - ‎decision fatigue: the more choices we are forced to make, the more the quality of our decisions deteriorates
-- ‎I **choose to**, instead of I **have to**
+- ‎I *choose to*, instead of I *have to*
 - ‎saying yes to any opportunity by definition requires saying no to others
 - respect is far more valuable than popularity in the long run
 
@@ -28,12 +28,12 @@
 - ‎the true essential intent is one that guides are greater sense of purpose, and helps you chart your life's path
 - ‎clarity about what is essential fuels us with the strength to say no to the nonessentials
 - ‎people respect and admire those with the courage of conviction to say no
-- ‎**the endowment effect** - our tendency to undervalue things that aren't ours and to overvalue things because we already own them
+- ‎**Endowment Effect** - our tendency to undervalue things that aren't ours and to overvalue things because we already own them
 - ‎boundaries come at a high price, but not pushing back costs more: our ability to choose what is most essential in life
 
 
 ### Execute
-- use the good times to create a buffer for the bad
+- use the *good* times to create a buffer for the *bad*
 - ‎instead of focusing on the efforts and resources you need to add, focus on the constraints or obstacles you need to remove
 - ‎small concrete wins create momentum and affirm our faith in our further success
 - ‎start small, encourage progress, and celebrate small wins

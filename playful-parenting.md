@@ -3,11 +3,11 @@
 
 
 ### Goals
-- to fill their cup: make a connection, heal from emotional distress, give love and affection, provide comfort and security
+- **to fill their cup**: make a connection, heal from emotional distress, give love and affection, provide comfort and security
 - nurture creativity, give encouragement, build confidence, develop courage and perseverance, foster independence, engage cooperation, instill good judgement
 - set clear limits and high expectations, provide guidance and structure
 - teach strong, admirable personal values
-- so that they can grow roots and spread wings
+- so that they can both **grow roots** and **spread wings**
 
 
 ### Games

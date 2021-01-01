@@ -63,7 +63,7 @@
 - professional management was born from the desire to optimize and control, not to lead waves of change
 - the goal was to minimize change, optimize performance, and take control away from individuals
 - management as a discipline is steeped in an old-school command and control attitude that is alive and well in the Internet age
-- **execution** - to shepherd an idea down the long, arduous path from conception to realization
+- **Execution** - to shepherd an idea down the long, arduous path from conception to realization
 
 *****
 
@@ -92,7 +92,7 @@
 - perhaps the greatest myth of all is that you need to be an expert in innovation in order to change the world
 - the gap from **knowing** to **doing** is enormous, and few people are willing to do the work to close that gap
 - the biggest difference between the greats and us was their dedication to their craft
-- **pitch** - the act of bringing an ideas to someone who has resources you need
+- **Pitch** - the act of bringing an ideas to someone who has resources you need
 - most people do not like change - they fear it
 - pitchable idea must include a detailed proposal for converting the abstract idea into tangible and realistic plans
 - **Questions** to answer before pitching an idea:

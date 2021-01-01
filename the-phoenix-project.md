@@ -22,9 +22,9 @@
 
 
 ### Unplanned Work
-- We need to stop shooting ourselves in the foot and get out of constant firefighting mode.
+- We need to stop shooting ourselves in the foot and get out of constant **firefighting mode**.
 - Remember, unplanned work kills your ability to do planned work, so you must always do whatever it takes to eradicate it. Murphy does exist, so you will always have unplanned work, but it must be handled efficiently.
-- Left unchecked, technical debt will ensure that the only work that gets done is unplanned work.
+- Left unchecked, **technical debt** will ensure that the only work that gets done is unplanned work.
 
 
 ### Troubleshooting
@@ -33,11 +33,11 @@
 - Want to tell me what's on your mind? I'm on top of the situation. What do you need that you aren't getting right now?
 - We need to establish an accurate timeline of relevant events, especially changes. And so far, we're basing everything on hearsay.
 - Without an accurate timeline, we won't be able to establish cause-and-effect.
-- I don't want guesswork, I want hypotheses backed up with facts.
+- I don't want **guesswork**, I want **hypotheses backed up with facts**.
 
 
 ### Teamwork
-- The great team doesn't mean that they had the smartest people. What made those teams great is that everyone trusted one another. In order to have mutual trust, you need to be vulnerable.
+- The great team doesn't mean that they had the smartest people. What made those teams great is that everyone trusted one another. In order to have mutual **trust**, you need to be **vulnerable**.
 - Solving any complex business problem requires teamwork, and teamwork requires trust.
 - A great team performs best when they practice. Practice creates habits, and habits create mastery of any process or skill.
 - Tell the truth is an act of love. To withhold the truth is an act of hate. Or worse, apathy. Having people give you honest feedback is a rare gift.
@@ -45,7 +45,7 @@
 
 ### Misc
 - Change is any activity that is physical, logical, or virtual to applications, databases, operating systems, networks, or hardware that could impact services being delivered.-
-- Perfection is the enemy of good. No, lack of competence is the enemy of good.
+- **Perfection** is the enemy of good. No, **lack of competence** is the enemy of good.
 - It's not the up-front capital that kills you, it's the operations and maintenance on the back end.
 - Problems, like dog poop left in the rain, rarely get better just by ignoring them.
 - We pay you to think, not just do.
