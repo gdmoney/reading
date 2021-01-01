@@ -17,3 +17,4 @@
 | Conscious                           | Annaka Harris                   | 11.15         |
 | The Consolations of Philosophy      | Alain de Botton                 | 12.15         |
 | Understand                          | Ted Chiang                      | 12.30         |
+| Story of Your Life                  | Ted Chiang                      | 12.31         |
