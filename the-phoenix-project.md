@@ -39,7 +39,7 @@
 ### Teamwork
 - The great team doesn't mean that they had the smartest people. What made those teams great is that everyone trusted one another. In order to have mutual **trust**, you need to be **vulnerable**.
 - Solving any complex business problem requires teamwork, and teamwork requires trust.
-- A great team performs best when they practice. Practice creates habits, and habits create mastery of any process or skill.
+- A great team performs best when they **practice**. Practice creates **habits**, and habits create **mastery** of any process or skill.
 - Tell the truth is an act of love. To withhold the truth is an act of hate. Or worse, apathy. Having people give you honest feedback is a rare gift.
 
 
