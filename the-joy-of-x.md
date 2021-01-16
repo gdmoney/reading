@@ -1,5 +1,4 @@
 ## The Joy of X
--- *Steven Strogatz*
 
 
 ### Numbers

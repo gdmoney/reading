@@ -1,5 +1,4 @@
 ## Algorithms to Live By
--- *Brian Christian and Tom Griffiths*
 
 
 ### Optimal Stopping
