@@ -5,6 +5,11 @@
 
 *****
 
+### [Base Strength](/base-strength.md)
+-- *Alex Bromley*
+
+*****
+
 ### [Drive](/drive.md)
 -- *Daniel H. Pink*
 
