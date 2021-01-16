@@ -27,9 +27,9 @@
   - **Novelty** - whether diminished returns have slowed progress
 
 - any successful training method will preempt stagnation by implementing variations in training over the long term
-  1. **Variation** focused on base building and specialization - vary the volume and exercise selection to widen your base
-  2. **Variation** as a method of recovery - subtle changes to the movement or training threshold
-  3. **Variation** is the only answer to diminished returns
+  - **Variation** focused on base building and specialization - vary the volume and exercise selection to widen your base
+  - **Variation** as a method of recovery - subtle changes to the movement or training threshold
+  - **Variation** is the only answer to diminished returns
 
 - **Linear Periodization** - volume drops as the average weight used in each session increases over time
   - dosing the right variation of Novelty, Recovery, and Specificity will lead to a new growth response
