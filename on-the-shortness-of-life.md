@@ -1,5 +1,4 @@
 ## On the Shortness of Life
--- *Seneca*
 
 
 - it is *not* that we have *short* lifetimes, but that we *waste* much of it

@@ -1,5 +1,4 @@
 ## The Alchemist
--- *Paulo Coelho*
 
 
 - when you really want something, the universe conspires to help you achieve it

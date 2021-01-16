@@ -1,5 +1,4 @@
 ## Man's Search for Meaning
--- *Viktor Frankl*
 
 
 ### Meaningful Life

@@ -1,5 +1,4 @@
 ## The Myths of Innovation
--- *Scott Berkun*
 
 
 - **Innovation** is significant positive change; so if something is done regularly, it can not represent significant change

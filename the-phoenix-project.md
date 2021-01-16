@@ -1,5 +1,4 @@
 ## The Phoenix Project
--- *Gene Kim, Kevin Behr, George Spafford*
 
 
 ### Mission

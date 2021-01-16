@@ -1,5 +1,4 @@
 ## The Obstacle is the Way
--- *Ryan Holiday*
 
 
 - setbacks and problems are always expected and never permanent

@@ -1,5 +1,4 @@
 ## Computer Networking
--- *James Kurose, Keith Ross*
 
 
 - **Circuit switching** vs **Packet switching** - pre vs on-demand link resource allocation

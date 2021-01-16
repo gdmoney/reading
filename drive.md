@@ -1,5 +1,4 @@
 ## Drive
--- *Daniel H. Pink*
 
 
 ### Summary

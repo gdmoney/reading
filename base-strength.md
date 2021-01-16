@@ -1,5 +1,4 @@
 ## Base Strength
--- *Alex Bromley*
 
 
 - **diminished returns** - any scenario where the same investment gives less and less back over time

@@ -1,5 +1,4 @@
 ## Essentialism
--- *Greg McKeown*
 
 
 ### Essence

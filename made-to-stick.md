@@ -1,5 +1,4 @@
 ## Made to Stick
--- *Chip Heath and Dan Heath*
 
 
 **Stick** - your ideas are understood and remembered and have a lasting impact, they change your audience's opinions or behavior

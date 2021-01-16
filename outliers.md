@@ -1,5 +1,4 @@
 ## Outliers
--- *Malcolm Gladwel*
 
 
 - **Outliers** - people who do extraordinary things

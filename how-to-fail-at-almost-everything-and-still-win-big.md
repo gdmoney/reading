@@ -1,5 +1,4 @@
 ## How to Fail at Almost Everything and Still Win Big
--- *Scott Adams*
 
 
 - I pursued a conscious strategy of managing my opportunities in a way that would make it easier for luck to find me

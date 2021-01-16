@@ -1,5 +1,4 @@
 ## The Consolations of Philosophy
--- *Alain de Botton*
 
 
 ### Unpopularity - *Socrates*

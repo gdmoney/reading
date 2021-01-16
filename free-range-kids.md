@@ -1,5 +1,4 @@
 ## Free Range Kids
--- *Lenore Skenazy*
 
 
 ### Good

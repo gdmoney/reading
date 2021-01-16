@@ -1,5 +1,4 @@
 ## Playful Parenting
--- *Lawrence J. Cohen*
 
 
 ### Goals
