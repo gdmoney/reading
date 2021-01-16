@@ -36,10 +36,11 @@
 - **Block Periodization** - similar to linear periodization but emphasis is put on optimizing each block
   - Accumulation > Transmutation > Realization - three phases or blocks of the entire macrocycle
 
-1. Weekly progressive overload
-2. Transition between phases of high volume base building and low volume specificity
-3. Consideration of recovery
-4. Planned incorporation of novel movements and training thresholds
+- every program needs:
+  1. Weekly progressive overload
+  2. Transition between phases of high volume base building and low volume specificity
+  3. Consideration of recovery
+  4. Planned incorporation of novel movements and training thresholds
 
 
 ### Wave Progressions
