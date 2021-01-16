@@ -10,14 +10,14 @@
 - wide bases make for tall peaks
 - **Base** - existing broad general physical traits
 - **Peak** - hypothetical limit with a specific threshold
-- **SAID** - specific adaptation to imposed demands - you develop specifically to the way that you train
+- **SAID** - Specific Adaptation to Imposed Demands - you develop specifically to the way that you train
 - widen the base in order to increase the peak
 - **SRA** model - Stress, Recovery, Adaptation - stress > temporary dip in performance > recovery and gains
 - stress and recovery must balance in a training program for an adaptation to be realized
 - training pace as a beginner will not be sustainable long term
 - intermediate and advanced lifters require considerably more recovery
 - body builds a tolerance to not just the *amount* of stress, but also training threshold, movement patterns, and even the rate and method of stress increase
-- **DOMS** - delayed-onset muscle soreness
+- **DOMS** - Delayed-Onset Muscle Soreness
 - change rep ranges to preempt stagnation as your body adapts
 - there is no single best training method because diminished returns come for everyone
 - **SRN** - Specificity, Recovery, Novelty
