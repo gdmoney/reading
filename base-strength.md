@@ -5,6 +5,7 @@
 - **progressive overload** - continual increase in stress to the body
 - **stagnation** - sudden end of progression caused by end to training adaptation
 
+
 ### Brick walls and how to get over them
 - one rep maxes should not occur more than twice per year
 - wide bases make for tall peaks
@@ -21,21 +22,25 @@
 - change rep ranges to preempt stagnation as your body adapts
 - there is no single best training method because diminished returns come for everyone
 - **SRN** - Specificity, Recovery, Novelty
-- **Specificity** - relationship of the *Base* and *Peak*
-- **Recovery** - how sustainable the workload is
-- **Novelty** - whether diminished returns have slowed progress
-- any successful training method will preempt stagnation by implementing variations in training over the long term
+  - **Specificity** - relationship between the *Base* and the *Peak*
+  - **Recovery** - how sustainable the workload is
+  - **Novelty** - whether diminished returns have slowed progress
 
-1. **Variation** focused on base building and specialization - vary the volume and exercise selection to widen your base
-2. **Variation** as a method of recovery - subtle changes to the movement or training threshold
-3. **Variation** is the only answer to diminished returns
+- any successful training method will preempt stagnation by implementing variations in training over the long term
+  1. **Variation** focused on base building and specialization - vary the volume and exercise selection to widen your base
+  2. **Variation** as a method of recovery - subtle changes to the movement or training threshold
+  3. **Variation** is the only answer to diminished returns
 
 - **Linear Periodization** - volume drops as the average weight used in each session increases over time
-- dosing the right variation of Novelty, Recovery, and Specificity will lead to a new growth response
+  - dosing the right variation of Novelty, Recovery, and Specificity will lead to a new growth response
 - **Block Periodization** - similar to linear periodization but emphasis is put on optimizing each block
-- Accumulation > Transmutation > Realization - three phases or blocks of the entire macrocycle
+  - Accumulation > Transmutation > Realization - three phases or blocks of the entire macrocycle
 
 1. Weekly progressive overload
 2. Transition between phases of high volume base building and low volume specificity
 3. Consideration of recovery
 4. Planned incorporation of novel movements and training thresholds
+
+
+### Wave Progressions
+- 
