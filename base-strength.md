@@ -17,10 +17,10 @@
 - stress and recovery must balance in a training program for an adaptation to be realized
 - training pace as a beginner will not be sustainable long term
 - intermediate and advanced lifters require considerably more recovery
-- body builds a tolerance to not just the *amount* of stress, but also training threshold, movement patterns, and even the rate and method of stress increase
+- body builds a tolerance to not just the *amount* of stress, but also training *threshold*, *movement patterns*, and even the rate and method of *stress increase*
 - **DOMS** - Delayed-Onset Muscle Soreness
 - change rep ranges to preempt stagnation as your body adapts
-- there is no single best training method because diminished returns come for everyone
+- there is no single best training method - diminished returns come for everyone
 
 - **SRN** - Specificity, Recovery, Novelty
   - **Specificity** - relationship between the *Base* and the *Peak*
