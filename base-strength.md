@@ -26,6 +26,7 @@
 - **Novelty** - whether diminished returns have slowed progress
 - any successful training method will preempt stagnation by implementing variations in training over the long term
 
-1. Variation focused on base building and specialization - vary the volume and exercise selection to widen your base
-2. Variation as a method of recovery - subtle changes to the movement or training threshold
-3. Variation is the only answer to diminished returns
+1. **Variation** focused on base building and specialization - vary the volume and exercise selection to widen your base
+2. **Variation** as a method of recovery - subtle changes to the movement or training threshold
+3. **Variation** is the only answer to diminished returns
+
