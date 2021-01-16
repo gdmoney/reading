@@ -21,7 +21,6 @@
 - **DOMS** - Delayed-Onset Muscle Soreness
 - change rep ranges to preempt stagnation as your body adapts
 - there is no single best training method - diminished returns come for everyone
-
 - **SRN** - Specificity, Recovery, Novelty
   - **Specificity** - relationship between the *Base* and the *Peak*
   - **Recovery** - how sustainable the workload is
