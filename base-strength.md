@@ -58,10 +58,10 @@
 
 
 ### Weekly Splits
+- **DUP** - Daily Undulating Periodization - *hypertrophy* (volume), *strength* (heavy), *power* (speed work)
 - for squatting, pressing, and pulling, frequency is virtually always at 1 to 3 times per week
 - squatting is one of the more bio-mechanically friendlier movements
 - deadlifts are much harder to recover from
 - squatting performance can boost dramatically when the recovery cost of deadlifts isn't a factor
 - 2x per week programming is the most common approach
-- use *heavy/light* or *volume/intensity* splits
-- 
+- use *heavy/light*, *volume/intensity*, or *DUP* splits
