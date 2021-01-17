@@ -44,4 +44,13 @@
 
 
 ### Wave Progressions
+- **Waves** (3-week cycle) are stacked into **Phases**, which are alternated between **Base** and **Peak** focused
+- **Step Load** - keep the weights the same and increase the number of reps or sets
+- in the *volume-oriented* phase, you have to leave reps in the tank on each and every set
+- sets of 10 is a proven muscle building approach
+- in the Base phase, progressively overload by increasing the *number of sets*
+- in the Peak phase, progressively overload by increasing the *weight*
+- **RPE** - Rate of Perceived Exertion - ranking of difficulty based on the number of reps left before failure
+- most of the work should be at RPE 7 to 9
+- **AMRAP** - As Many Reps As Possible - keep the weight fixed and stop one rep shy of failure
 - 
