@@ -44,13 +44,24 @@
 
 
 ### Wave Progressions
-- **Waves** (3-week cycle) are stacked into **Phases**, which are alternated between **Base** and **Peak** focused
+- **Waves** (3-week: easy/medium/hard cycle) are stacked into **Phases**, which are alternated between **Base** and **Peak** focused
+- **Base phase:** broad selection of exercises, progressively overload by increasing the *number of sets*, lower intensity (65-80%)
+- **Peak phase:** narrow selection of exercises, progressively overload by increasing the *weight*, higher higher intensity (80-95%)
 - **Step Load** - keep the weights the same and increase the number of reps or sets
 - in the *volume-oriented* phase, you have to leave reps in the tank on each and every set
 - sets of 10 is a proven muscle building approach
-- in the Base phase, progressively overload by increasing the *number of sets*
-- in the Peak phase, progressively overload by increasing the *weight*
 - **RPE** - Rate of Perceived Exertion - ranking of difficulty based on the number of reps left before failure
 - most of the work should be at RPE 7 to 9
 - **AMRAP** - As Many Reps As Possible - keep the weight fixed and stop one rep shy of failure
+- **Linear Peak:** high intentisy (85,90,95), low reps (3,2,1), deload every 4th week (5,4,3 reps), test new max after the 12-week phase
+- incorporate a full deload on week 4 or reduce RPE on week 1 to allow recovery
+
+
+### Weekly Splits
+- for squatting, pressing, and pulling, frequency is virtually always at 1 to 3 times per week
+- squatting is one of the more bio-mechanically friendlier movements
+- deadlifts are much harder to recover from
+- squatting performance can boost dramatically when the recovery cost of deadlifts isn't a factor
+- 2x per week programming is the most common approach
+- use *heavy/light* or *volume/intensity* splits
 - 
