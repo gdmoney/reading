@@ -8,8 +8,7 @@
 
 ### Brick walls and how to get over them
 - one rep maxes should not occur more than twice per year
-- wide bases make for tall peaks
-- **Base** - existing broad general physical traits
+- **Base** - existing broad/general physical traits
 - **Peak** - hypothetical limit with a specific threshold
 - **SAID** - Specific Adaptation to Imposed Demands - you develop specifically to the way that you train
 - widen the base in order to increase the peak
@@ -26,10 +25,10 @@
   - **Recovery** - how sustainable the workload is
   - **Novelty** - whether diminished returns have slowed progress
 
-- any successful training method will preempt stagnation by implementing variations in training over the long term
-  - **Variation** focused on base building and specialization - vary the volume and exercise selection to widen your base
-  - **Variation** as a method of recovery - subtle changes to the movement or training threshold
-  - **Variation** is the only answer to diminished returns
+- any successful training method will preempt stagnation by implementing **variations** in training over the long term
+  - variation focused on base building and specialization - vary the volume and exercise selection to widen your base
+  - variation as a method of recovery - subtle changes to the movement or training threshold
+  - variation is the only answer to diminished returns
 
 - **Linear Periodization** - volume drops as the average weight used in each session increases over time
   - dosing the right variation of Novelty, Recovery, and Specificity will lead to a new growth response
