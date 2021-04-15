@@ -7,3 +7,4 @@
 | Harry Potter and the Sorcerer's Stone | J.K. Rowling                    | 01.16         |
 | Base Strength                         | Alex Bromley                    | 01.17         |
 | The Road                              | Cormac McCarthy                 | 01.31         |
+| The Moral Landscape                   | Sam Harris                      | xx.xx         |
