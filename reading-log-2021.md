@@ -9,3 +9,4 @@
 | The Road                              | Cormac McCarthy                 | 01.31         |
 | The Moral Landscape                   | Sam Harris                      | 04.30         |
 | The Madness of Crowds                 | Douglas Murray                  | 06.11         |
+| The Stoic Challenge                   | William B. Irvine               | 06.nn         |
