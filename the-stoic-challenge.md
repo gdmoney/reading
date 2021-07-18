@@ -1,0 +1,32 @@
+## The Stoic Challenge
+
+
+- **Phiosophy of Life** - what in life is worth having and a strategy for obtaining it
+- **Framing Effect** - how we characretize a situation has a profound impact on how we respond to it emotionally
+- the Stoics' goal was not to banish emotion but to minimize the number of *negative* emotions
+- *emotional* coast of setbacks is far greater than the *physical* costs
+- getting frustrated begets anger which is incompatible with happiness
+- *victim* label is easy to accept because it relieves one of personal responsibility and entitles one to special treatment
+- *resilient* people refuse the victim role, they don't want pity and don't regard themselves as pitiful beings
+- setback free childhood creates emotionally brittle kids and deprives them of the chance to develop setback-response skills and resilience
+- **Anchoring Effect** - a cognitive bias whereby an individual's decisions are influenced by a particular reference point or 'anchor'
+- **Negative Visualization** - periodically have flickering thoughts (don't dwell) about how our lives and circumstances could be worse
+- anger is exhausing, it triggers anger in others, and it can cloud our judgment
+- Stoic would skip the first four Kubler-Ross's five stages of grief (*denial, anger, bargaining, depression*) and go directly to *acceptance*
+- *Blame Frame* - assumes that you have been wroned, that some person or group of people has it in for you
+- Stoics recommend that when we experience a setback, we make a point of consciousy framing it as a kind of test
+- with the right framing, you can turn the setbacks you experience into vehicles for self-transformation
+- after we experience a setback, our first priority should be to prevent ourselves from being flooded by negative emotions
+- successfully overcoming challenges will make you more confident, improve your ability to spot the silver linings, and appreciate just how relatively setback-free your life is
+- *tranquil life* - experiencing as few negative emotions and as much delight as possible
+- not even attempting to do something because of fear of failure is much worse than failing to do something difficult
+- familiarity breeds comfort - do something scary often enough, and it not only ceases to be scary, it becomes automatic
+- the goal of toughness training is not to let you live in uninterrupted comfort but to expand your comfort zone so you remain comfortable in a wider range of circumstances
+- experiencing too much comfort will reduce your capacity for experiencing pleasure
+- **Last-time Meditation** - acknowledging that because you are mortal, there will be a last time for everything you do
+- **Prospective Retrospection** - reflecting on the likelihood that at some point in the future, you will wish you could travel back in time to *this very moment*
+- a Stoic's primary goal in life is to attain and then maintain tranquility
+- Stoic principles:
+  - we should not concern ourseles with things we cannot control
+  - we should be socially useful - do what we can to help those around us have better relieves
+- dying is the easy part of your Stoic exit exam; the challenge is to retain your equanimity
