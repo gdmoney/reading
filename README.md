@@ -5,6 +5,11 @@
 
 *****
 
+### [The Stoic Challenge](/the-stoic-challenge.md)
+-- *William Irvine*
+
+*****
+
 ### [Base Strength](/base-strength.md)
 -- *Alex Bromley*
 
