@@ -4,17 +4,17 @@
 - **Phiosophy of Life** - what in life is worth having and a strategy for obtaining it
 - **Framing Effect** - how we characretize a situation has a profound impact on how we respond to it emotionally
 - the Stoics' goal was not to banish emotion but to minimize the number of *negative* emotions
-- *emotional* coast of setbacks is far greater than the *physical* costs
+- *emotional* cost of setbacks is far greater than the *physical* costs
 - getting frustrated begets anger which is incompatible with happiness
-- *victim* label is easy to accept because it relieves one of personal responsibility and entitles one to special treatment
+- *victim* label is easy to accept because it relieves one of personal responsibility and entitles him to special treatment
 - *resilient* people refuse the victim role, they don't want pity and don't regard themselves as pitiful beings
 - setback free childhood creates emotionally brittle kids and deprives them of the chance to develop setback-response skills and resilience
 - **Anchoring Effect** - a cognitive bias whereby an individual's decisions are influenced by a particular reference point or 'anchor'
 - **Negative Visualization** - periodically have flickering thoughts (don't dwell) about how our lives and circumstances could be worse
 - anger is exhausing, it triggers anger in others, and it can cloud our judgment
 - Stoic would skip the first four Kubler-Ross's five stages of grief (*denial, anger, bargaining, depression*) and go directly to *acceptance*
-- *Blame Frame* - assumes that you have been wroned, that some person or group of people has it in for you
-- Stoics recommend that when we experience a setback, we make a point of consciousy framing it as a kind of test
+- *Blame Frame* - assumes that you have been wronged, that some person or group of people has it in for you
+- Stoics recommend that when we experience a setback, we make a point of consciously framing it as a kind of test
 - with the right framing, you can turn the setbacks you experience into vehicles for self-transformation
 - after we experience a setback, our first priority should be to prevent ourselves from being flooded by negative emotions
 - successfully overcoming challenges will make you more confident, improve your ability to spot the silver linings, and appreciate just how relatively setback-free your life is
