@@ -8,7 +8,7 @@
 - getting frustrated begets anger which is incompatible with happiness
 - *victim* label is easy to accept because it relieves one of personal responsibility and entitles him to special treatment
 - *resilient* people refuse the victim role, they don't want pity and don't regard themselves as pitiful beings
-- setback free childhood creates emotionally brittle kids and deprives them of the chance to develop setback-response skills and resilience
+- setback free childhood creates emotionally brittle kids and deprives them of the chance to develop resilience
 - **Anchoring Effect** - a cognitive bias whereby an individual's decisions are influenced by a particular reference point or 'anchor'
 - **Negative Visualization** - periodically have flickering thoughts (don't dwell) about how our lives and circumstances could be worse
 - anger is exhausing, it triggers anger in others, and it can cloud our judgment
