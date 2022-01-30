@@ -10,3 +10,4 @@
 | The Moral Landscape                   | Sam Harris                      | 04.30         |
 | The Madness of Crowds                 | Douglas Murray                  | 06.11         |
 | The Stoic Challenge                   | William B. Irvine               | 07.17         |
+| Courate is Calling                    | Ryan Holiday                    | DNF           |
