@@ -4,5 +4,5 @@
 | :------------------------------------ | :------------------------------ | :-----------: |
 | Death Be Not Proud                    | John Gunther                    | 02.01         |
 | Exhalation: Stories                   | Ted Chiang                      | 02.28         |
-|                                       |                                 |               |
+| Waking Up                             | Sam Harris                      | 05.08         |
 |                                       |                                 |               |
