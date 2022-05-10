@@ -36,8 +36,8 @@
 
 ### The Riddle of the Self
 - conventional sense of self is an illusion and spirituality largely consists in realizing this, moment to moment
-- *psychological continuity* the maintenance of one's memories, beliefs, habits, and other mental traits
-- teachings of Buddhism: there is no stable self that is carried along from one moment to the next
+- **Psychological Continuity** - maintenance of one's memories, beliefs, habits, and other mental traits
+- Buddhism teaches that there is no stable self that is carried along from one moment to the next
 - **Consciousness** - the context in which the objects of experience appear
 - we think of *I* as the thinker of our thoughts and the experiencer of our experience
 - the self that does not survive scrutiny is the *subject* of experience in each present moment
@@ -85,6 +85,5 @@
 - spirituality remains the great hole in secularism that reasonable people strike in the presence of unreasonable faith
 - altered states of consciousness are empirical facts
 - to seek to live a spiritual life without deluding ourselves, we must view these experiences in universal and secular terms
-- consciousness is the light by which the contours of mind and body are known
-- consciousness is never improved or harmed by what it knows
+- consciousness is the light by which the contours of mind and body are known and it is never improved or harmed by what it knows
 - making this discovery, again and again, is the basis of spiritual life
