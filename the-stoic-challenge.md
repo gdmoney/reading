@@ -1,8 +1,8 @@
 ## The Stoic Challenge
 
 
-- **Phiosophy of Life** - what in life is worth having and a strategy for obtaining it
-- **Framing Effect** - how we characretize a situation has a profound impact on how we respond to it emotionally
+- **Philosophy of Life** - what in life is worth having and a strategy for obtaining it
+- **Framing Effect** - how we characterize a situation has a profound impact on how we respond to it emotionally
 - the Stoics' goal was not to banish emotion but to minimize the number of *negative* emotions
 - *emotional* cost of setbacks is far greater than the *physical* costs
 - getting frustrated begets anger which is incompatible with happiness
@@ -11,7 +11,7 @@
 - setback free childhood creates emotionally brittle kids and deprives them of the chance to develop resilience
 - **Anchoring Effect** - a cognitive bias whereby an individual's decisions are influenced by a particular reference point or 'anchor'
 - **Negative Visualization** - periodically have flickering thoughts (don't dwell) about how our lives and circumstances could be worse
-- anger is exhausing, it triggers anger in others, and it can cloud our judgment
+- anger is exhausting, it triggers anger in others, and it can cloud our judgment
 - Stoic would skip the first four Kubler-Ross's five stages of grief (*denial, anger, bargaining, depression*) and go directly to *acceptance*
 - *blame frame* - assumes that you have been wronged, that some person or group of people has it in for you
 - Stoics recommend that when we experience a setback, we make a point of consciously framing it as a kind of test

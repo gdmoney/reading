@@ -9,10 +9,10 @@
 - Buddhism isn't primarily a faith-based religion and its central teaching are entirely empirical
 - asserts that spiritual life consists in overcoming the illusion of the self by paying close attention to our experience in the present moment
 - we manage to avoid being happy while struggling to *become* happy
-- **Mindfullness** - a state of clear, nonjudgmental, and undistracted attention to the contents of consciousness
+- **Mindfulness** - a state of clear, nonjudgmental, and undistracted attention to the contents of consciousness
   - a vivid awareness of whatever is appearing in one's mind or body - thoughts, sensations, moods - without grasping at the pleasant or recoiling from the unpleasant
   - a technique for achieving equanimity amid the flux, allowing us to simply be aware of the quality of experience in each moment
-- principal enemy of mindfullness is our deeply conditioned habit of being distracted by thoughts
+- principal enemy of mindfulness is our deeply conditioned habit of being distracted by thoughts
 - the problem is not thoughts themselves but the state of thinking *without being fully aware that we're thinking*
 - when we look at what makes life difficult, we see that we are all prisoners of our thoughts
 - the goal of meditation is to have an *increasingly* healthy mind
@@ -27,7 +27,7 @@
 - the question of how consciousness relates to the physical world remains famously unresolved
 - human *minds* are the product of human brains
 - every chain of explanation must end somewhere - generally with a brute fact that neglects to explain itself
-- rigorous introspection - spirituality - is an indespensable part of understanding the nature of the mind
+- rigorous introspection - spirituality - is an indispensable part of understanding the nature of the mind
 - in split-brain phenomenon, the isolated right hemisphere is independently conscious and the divided brain harbors two distinct points of view
 - consciousness is divisible, and, therefore more fundamental than any apparent self
 - consciousness is the substance of any experience we can have or hope for, now or in the future
@@ -53,10 +53,10 @@
 
 ### Meditation
 - a human mind is a wandering mind, and a wandering mind is an unhappy mind
-- enermous difference between being hostage to one's thoughts and being freely and nonjudgmentally aware of life in the present
+- enormous difference between being hostage to one's thoughts and being freely and nonjudgmentally aware of life in the present
 - **Meditation** - the ability to stop suffering in many of the usual ways, if only for a few moments at a time
   - goal is to uncover a form of well-being that is inherent to the nature of our minds
-- the deepest goal of spirituatlity is freedom from the illusion of the self
+- the deepest goal of spirituality is freedom from the illusion of the self
 - being able to stand perfectly free of the feeling of self is the *start* of one's spiritual journey, not its end
 - meditation doesn't entail the suppression of thoughts, but it does require that we notice thoughts as they emerge and recognize them
 - break one's identification with thought and allow the continuum of experience, pleasant and unpleasant, to simply be as it is
@@ -65,19 +65,19 @@
 
 ### Gurus, Death, Drugs, and Other Puzzles
 - a student's moral intuitions and instincts for self-preservation can always be recast as symptoms of fear and attachment
-- nothing is intrinsically boring - boredomis simply a lack of attention
+- nothing is intrinsically boring - boredom is simply a lack of attention
 - a contemplative expert is someone who can help you realize certain truths about the nature of your own mind
 - the ability to meditate - to rest consciousness for a few moments prior to the arising of the next thought - can offer a profound relief from mental suffering
 - what is needed to establish the mind's independence from the brain is a case in which a person has an experience without associated brain activity
 - subjectively speaking, there is only consciousness and its contents; there is no inner self who is conscious
-- psilocybin and LSD pose no apparent risk of addiction and are pysically well tolerated
+- psilocybin and LSD pose no apparent risk of addiction and are physically well tolerated
 - MDMA has remarkable therapeutic potential but is also susceptible to abuse
 - no right more fundamental than the right to peacefully steward the contents of one's own consciousness
 - meditation can open the mind to a similar range of conscious states as psychedelics, but far less haphazardly
 - the power of psychedelics is that they often reveal, in the span of a few hours, depths of awe and understanding that can otherwise elude us for a lifetime
 - there are no real boundaries between science and any other discipline that attempts to make valid claims about the world on the basis of evidence and psychological
 - we should care about demanding good reasons for what one believes and being dissatisfied with bad ones
-- spirituatlity requires the same commitment to intellectual honesty
+- spirituality requires the same commitment to intellectual honesty
 
 
 ### Conclusion

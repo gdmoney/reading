@@ -7,7 +7,7 @@
 - no one is willing to give away their *money*, yet many give away their *time*
 - we live as if we were destined to live forever
 
-***
+*****
 
 - we squander time as if we had unlimited supply of it and could replace it
 - how late it is to begin to live just when we must cease to live
@@ -15,7 +15,7 @@
 - there is nothing the busy man is less busy with than living
 - it takes the entire *lifetime* to learn how to *live* and to learn how to *die*
 
-***
+*****
 
 - nothing is worth exchanging for time
 - *existence* is different from *living*
@@ -23,7 +23,7 @@
 - *procrastination* is the greatest waste of life
 - the greatest hindrance to living is expectancy, which depends upon tomorrow and wastes today
 
-***
+*****
 
 - old age surprises those who are distracted and unprepared
 - no one willingly turns his thought back to the past, unless all his acts have been submitted to the censorship of his conscience, which is never deceived
@@ -31,7 +31,7 @@
 - idle *occupation* is different from *leisure*
 - don't waste time studying meaningless, empty subjects
 
-***
+*****
 
 - only those who take time for philosophy really live because they are concerned with more than their own lives
 - there is nothing that the lapse of time does not tear down and remove, except for the works of philosophy
@@ -39,7 +39,7 @@
 - everything that comes to us from chance is unstable, and the higher it rises, the more liable it is to fall
 - what is doomed to perish brings pleasure to no one
 
-***
+*****
 
 - constant distractions are a reason for anxiety, leaving us seeking leisure, but never enjoying it
 - it is better to have knowledge of the ledger of one's own life than of the corn-market
