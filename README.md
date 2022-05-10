@@ -5,6 +5,11 @@
 
 *****
 
+### [Waking Up](/waking-up.md)
+-- *Sam Harris*
+
+*****
+
 ### [The Stoic Challenge](/the-stoic-challenge.md)
 -- *William Irvine*
 
