@@ -2,4 +2,4 @@
 
 | Title                                 | Author(s)                       | Date Finished |
 | :------------------------------------ | :------------------------------ | :-----------: |
-| Can't Hurt Me                         | David Goggina                   | 01.nn         |
+| Can't Hurt Me                         | David Goggins                   | 01.nn         |
