@@ -4,4 +4,3 @@
 | :------------------------------------ | :------------------------------ | :-----------: |
 | Playful Parenting                     | Lawrence J. Cohen               | 01.15         |
 | The Diving Bell and the Butterfly     | Jean-Dominique Bauby            | 08.20         |
-| Can't Hurt Me                         | David Goggins                   | 12.nn         |
