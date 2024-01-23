@@ -75,7 +75,7 @@
 - no right more fundamental than the right to peacefully steward the contents of one's own consciousness
 - meditation can open the mind to a similar range of conscious states as psychedelics, but far less haphazardly
 - the power of psychedelics is that they often reveal, in the span of a few hours, depths of awe and understanding that can otherwise elude us for a lifetime
-- there are no real boundaries between science and any other discipline that attempts to make valid claims about the world on the basis of evidence and psychological
+- there are no real boundaries between science and any other discipline that attempts to make valid claims about the world on the basis of evidence
 - we should care about demanding good reasons for what one believes and being dissatisfied with bad ones
 - spirituality requires the same commitment to intellectual honesty
 
