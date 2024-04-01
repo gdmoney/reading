@@ -7,3 +7,4 @@
 | The Storytelling Animal: How Stories Make Us Human | Jonathan Gottschall             | 01.27         |
 | Lone Survivor                                      | Marcus Luttrell                 | 02.11         |
 | God's Debris                                       | Scott Adams                     | 03.28         |
+| Base Strength                                      | Alexander Bromley               | 03.31         |
