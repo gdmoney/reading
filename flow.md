@@ -2,18 +2,17 @@
 
 
 ### Parenting
-- teenagers who had certain types of relationships with their parents were significantly more happy, satisfied, and strong in most life situations
-- the families had these five characteristics:
-  - *clarity* - teenagers feel that they know what their parents expect from them - goals and feedback in the family interaction are unambiguous
-  - *centering* - children's perception that their parents are interested in what they are doing in the present, in their concrete feelings and experiences
-  - *choice* - children feel that they have a variety of possibilities from which to choose, including that of breaking parental rules - as long as they are prepared to face the consequences
-  - *commitment* - the trust that allows the child to feel comfortable enough to set aside the shield of his defenses, and become unselfconsciously involved in whatever he's interested in
-  - *challenge* - parents' dedication to provide increasingly complex opportunities for action to their children
+- teenagers whose families had these five characteristics: were significantly more happy, satisfied, and strong in most life situations:
+  - *Clarity* - teenagers feel that they know what their parents expect from them - goals and feedback in the family interaction are unambiguous
+  - *Centering* - children's perception that their parents are interested in what they are doing in the present, in their concrete feelings and experiences
+  - *Choice* - children feel that they have a variety of possibilities from which to choose, including that of breaking parental rules - as long as they are prepared to face the consequences
+  - *Commitment* - the trust that allows the child to feel comfortable enough to set aside the shield of his defenses, and become unselfconsciously involved in whatever he's interested in
+  - *Challenge* - parents' dedication to provide increasingly complex opportunities for action to their children
 - children who grow up in the family situations that facilitate clarity of goals, feedback, feeling of control, concentration on the task at hand, intrinsic motivation, and challenge, will generally have a better chance to order their lives so as to make flow possible
 - children who know what they can and cannot do, who do not have to constantly argue about rules and controls, who are not worried about their parents' expectations for future success always hanging over their heads, are released from many of the attentional demands that more chaotic households generate
 - in less well-ordered families a great deal of energy is expended in constant negotiations and strife, and in the children's attempts to protect their fragile selves from being overwhelmed by other people's goals
 
-- tensions of teenage life can be eased if the family provides a sense of *acceptance*, *control*, and *self-confidence* to the adolescent
+- tensions of teenage life can be eased if the family provides a sense of *Acceptance*, *Control*, and *Self-confidence* to the adolescent
 - a relationship that has these dimensions is one in which people trust one another, and feel totally accepted
 - being assured of one's worth in the eyes of one's kin gives a person the strength to take chances
 - excessive conformity is usually caused by fear of disapproval
