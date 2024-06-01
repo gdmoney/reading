@@ -11,4 +11,4 @@
 | The Fortunate Pilgrim                              | Mario Puzo                        | 04.07         |
 | Flow: The Psychology of Optimal Experience         | Mihaly Csikszentmihalyi           | 04.26         |
 | The Last Don                                       | Mario Puzo                        | 05.18         |
-| Algorithms to Live By                              | Brian Christian and Tom Griffiths | 05.nn         |
+| Algorithms to Live By                              | Brian Christian and Tom Griffiths | 05.31         |
