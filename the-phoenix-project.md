@@ -43,7 +43,7 @@
 
 
 ### Misc
-- Change is any activity that is physical, logical, or virtual to applications, databases, operating systems, networks, or hardware that could impact services being delivered.-
+- Change is any activity that is physical, logical, or virtual to applications, databases, operating systems, networks, or hardware that could impact services being delivered.
 - **Perfection** is the enemy of good. No, **lack of competence** is the enemy of good.
 - It's not the up-front capital that kills you, it's the operations and maintenance on the back end.
 - Problems, like dog poop left in the rain, rarely get better just by ignoring them.
