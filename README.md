@@ -1,4 +1,4 @@
-### Book notes, quotes, and passages.
+## Book notes, quotes, and passages.
 
 *****
 **[Reading Log 2025](/reading-log-2025.md) • [Reading Log 2024](/reading-log-2024.md) • [Reading Log 2023](/reading-log-2023.md) • [Reading Log 2022](/reading-log-2022.md) • [Reading Log 2021](/reading-log-2021.md) • [Reading Log 2020](/reading-log-2020.md) • [Reading Log 2019](/reading-log-2019.md) • [Reading Log 2018](/reading-log-2018.md) • [Reading Log 2017](/reading-log-2017.md)**
