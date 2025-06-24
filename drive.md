@@ -14,7 +14,7 @@ When it comes to motivation, there's a gap between what science knows and what b
 - **Motivation 2.0** - improve performance, increase productivity, and encourage excellence by rewarding the good and punishing the bad
 - **extrinsic motivation** - "if-then" rewards, bonuses, incentive plans, forced rankings
 - **Daniel Kahneman** showed that people aren't rational calculators of their economic self-interest
-- **algorithmic task** - you follow a set of established instructions down a  single pathway to one conclusion
+- **algorithmic task** - you follow a set of established instructions down a single pathway to one conclusion
 - **heuristic task** - no algorithm exist for it, you have to experiment with possibilities and devise a novel solution
 - external rewards and punishments - both carrots and sticks - can work nicely for **algorithmic** tasks but can be devastating for **heuristic** ones
 - **routine**, not-so-interesting jobs require direction
@@ -52,7 +52,7 @@ When it comes to motivation, there's a gap between what science knows and what b
 - human beings have an universal, innate drive to be **autonomous**, **self-determined**, and **connected** to one another
 - **Motivation 3.0** - assumes that humans also have a third drive - to learn, to create, and to better the world
 - **Type I** behavior is fueled more by intrinsic desires than extrinsic ones and cares more about the inherent satisfaction of the activity itself
-- it's main motivators are freedom, challenge, and purpose of the undertaking itself
+- its main motivators are freedom, challenge, and purpose of the undertaking itself
 - it is self-directed and is devoted to becoming better and better at something that matters
 
 

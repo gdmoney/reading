@@ -45,7 +45,7 @@
 ### Wave Progressions
 - **Waves** (3-week: easy/medium/hard cycle) are stacked into **Phases**, which are alternated between **Base** and **Peak** focused
 - **Base phase:** broad selection of exercises, progressively overload by increasing the *number of sets*, lower intensity (65-80%)
-- **Peak phase:** narrow selection of exercises, progressively overload by increasing the *weight*, higher higher intensity (80-95%)
+- **Peak phase:** narrow selection of exercises, progressively overload by increasing the *weight*, higher intensity (80-95%)
 - **Step Load** - keep the weights the same and increase the number of reps or sets
 - in the *volume-oriented* phase, you have to leave reps in the tank on each and every set
 - sets of 10 is a proven muscle building approach
@@ -59,7 +59,7 @@
 ### Weekly Splits
 - **DUP** - Daily Undulating Periodization - *hypertrophy* (volume), *strength* (heavy), *power* (speed work)
 - for squatting, pressing, and pulling, frequency is virtually always at 1 to 3 times per week
-- squatting is one of the more bio-mechanically friendlier movements
+- squatting is one of the more biomechanically friendlier movements
 - deadlifts are much harder to recover from
 - squatting performance can boost dramatically when the recovery cost of deadlifts isn't a factor
 - 2x per week programming is the most common approach

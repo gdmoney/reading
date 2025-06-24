@@ -110,7 +110,7 @@
       - has fundamental problem of key distribution
       - Cipher classes: **stream ciphers** and **block ciphers** (**AES**)
    - **Public Key Cryptography** - asymmetric encryption
-      - **Diffie-Helman** - one of the first algorithms
+      - **Diffie-Hellman** - one of the first algorithms
       - **RSA** - popular public key cryptography algorithm
  
 - **Hash Function** takes an input and computes a fixed-length string

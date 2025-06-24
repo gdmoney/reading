@@ -41,7 +41,7 @@
 *****
 
 ### [Outliers](/outliers.md)
--- *Malcolm Gladwel*
+-- *Malcolm Gladwell*
 
 *****
 
