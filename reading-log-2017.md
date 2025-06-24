@@ -17,6 +17,6 @@
 | Stories of Your Life and Others	  | Ted Chiang				              | 09.16         |
 | The Myths of Innovation			  | Scott Berkun				          | 10.01         |
 | How to Fail at Almost Everything    | Scott Adams			                  | 10.15         |
-| The Alchemist					      | Paulo Coehlo		                  | 11.04         |
+| The Alchemist					      | Paulo Coelho		                  | 11.04         |
 | The One and Only Ivan			      | Katherine Applegate		              | 11.25         |
 | On the Shortness of Life			  | Seneca					              | 12.27         |

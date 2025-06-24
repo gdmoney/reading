@@ -27,7 +27,7 @@
 
 - old age surprises those who are distracted and unprepared
 - no one willingly turns his thought back to the past, unless all his acts have been submitted to the censorship of his conscience, which is never deceived
-- those who are distracted are concerned with only the present, which is too brief that it can not be grasped
+- those who are distracted are concerned with only the present, which is so brief that it can not be grasped
 - idle *occupation* is different from *leisure*
 - don't waste time studying meaningless, empty subjects
 

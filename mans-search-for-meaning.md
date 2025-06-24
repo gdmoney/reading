@@ -41,7 +41,7 @@
 
 
 ### Judging Others
-- no man should judge unless he asks himself in absolute honestly whether in a similar situation he might not have done the same
+- no man should judge unless he asks himself in absolute honesty whether in a similar situation he might not have done the same
 
 
 ### Right & Wrong

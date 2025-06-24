@@ -25,7 +25,7 @@
 - **Culture of Honor** - culture developed among herdsman living in harsh mountainous areas where the constant threat of losing their animals to theft, resulted in aggressiveness and having a tough reputation becoming a better survival strategy than cooperation (which is a better strategy for farmers)
 - **Mitigated Speech** - any attempt to downplay or sugarcoat the meaning of what is being said
 - **Power Distance Index** - measure of how much a particular culture values and respects authority
-- **Transmitter vs Receiver Orientation** - who's responsibility it is to make sure ideas are communicated clearly and unambiguously
+- **Transmitter vs Receiver Orientation** - whose responsibility it is to make sure ideas are communicated clearly and unambiguously
 - **Mechanically vs Skill oriented agriculture** - using more equipment vs better managing existing farms in order to achieve higher yields
 - **SSLANT** - Smile, Sit up, Listen, Ask questions, Nod when being spoken to, Track with your eyes
 - **Achievement Gap** - difference in test scores between kids from rich and poor households
