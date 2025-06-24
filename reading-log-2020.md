@@ -12,7 +12,7 @@
 | The Zahir                           | Paulo Coelho                    | 06.03         |
 | Outliers                            | Malcolm Gladwell                | 06.13         |
 | God's Debris                        | Scott Adams                     | 07.19         |
-| The Four Horsemen                   | Dawking, et al.                 | 07.23         |
+| The Four Horsemen                   | Dawkins, et al.                 | 07.23         |
 | The Martian                         | Andy Weir                       | 08.02         |
 | Conscious                           | Annaka Harris                   | 11.15         |
 | The Consolations of Philosophy      | Alain de Botton                 | 12.15         |
