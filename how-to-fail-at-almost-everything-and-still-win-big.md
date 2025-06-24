@@ -5,7 +5,7 @@
 - if you want success, figure out the price, then pay it
 - Success is the product of picking a good system and following it until luck finds you
 - **The Success Formula**: every skill you acquire doubles your odds of success
-- small successes can grow into big ones,  but failures rarely growing to successes
+- small successes can grow into big ones,  but failures rarely grow to successes
 - few things are as destructive and limiting as a worldview that assumes people are mostly rational
 - smile, ask questions, avoid complaining and sad topics, and have some entertaining stories ready to go
 - if you can deliver an image of decisiveness, no matter how disingenuous,  others will see it as leadership

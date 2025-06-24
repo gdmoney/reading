@@ -47,7 +47,7 @@
 - it is for this reason that courage, resilience, perseverance, mature defense, or *transformational coping skills* are so essential
 - without them we would be constantly suffering through the random bombardment of stray psychological meteorites
 - on the other hand, if we do develop such positive strategies, most negative events can be at least neutralized, and possibly even used as challenges that will help make the self stronger and more complex
-- young children and early teens still depend to a large extend on a supportive social network to buffer them against things that go wrong
+- young children and early teens still depend to a large extent on a supportive social network to buffer them against things that go wrong
 - by the time they're seventeen or eighteen, teenagers are generally able to place negative events in perspective, and they are no longer destroyed by things that don't work out as desired
 - having been disappointed before, and having survived the disappointment, the older teen knows that a situation is not as bad as it may seem at the moment
 - partly it's knowing that other people also have been going through the same problems, and have been able to resolve them

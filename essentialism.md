@@ -24,7 +24,7 @@
 
 ### Eliminate
 - eliminate any activity that is misaligned with what you're intending to achieve
-- ‎the true essential intent is one that guides are greater sense of purpose, and helps you chart your life's path
+- ‎the true essential intent is one that guides our greater sense of purpose, and helps you chart your life's path
 - ‎clarity about what is essential fuels us with the strength to say no to the nonessentials
 - ‎people respect and admire those with the courage of conviction to say no
 - ‎**Endowment Effect** - our tendency to undervalue things that aren't ours and to overvalue things because we already own them
@@ -36,7 +36,7 @@
 - ‎instead of focusing on the efforts and resources you need to add, focus on the constraints or obstacles you need to remove
 - ‎small concrete wins create momentum and affirm our faith in our further success
 - ‎start small, encourage progress, and celebrate small wins
-- ‎every habit is made up of a que, a routine, and a reward
+- ‎every habit is made up of a cue, a routine, and a reward
 - ‎instead of spending our limited supply of discipline on making the same decisions again and again, embedding our decisions into a routine allows us to channel that discipline towards some other essential activity
 - ‎tune in to the present and focus on the things that are truly important - not yesterday or tomorrow, but right now
 - we can easily do two things at the same time, but we can't concentrate on two things at the same time

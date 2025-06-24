@@ -46,7 +46,7 @@
 - drop in the bucket effect
 - mental simulation
 - inspiration to act
-- *4 story plots**: Challenge, Connection, Creativity, Springboard
+- **4 story plots**: Challenge, Connection, Creativity, Springboard
 - focus on the message, not the presentation
 - focus on the lead, stress 1 or 2 points, don't get lost in the sea of information
 - **CHIFF** - Clever, High-quality, Innovative, Friendly, Fun
