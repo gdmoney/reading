@@ -5,7 +5,7 @@
 - You want the IT systems to be reliable and available and for the business to be able to depend upon them. You want disruptions to normal operations kept to an absolute minimum so that the business can focus on getting Phoenix done.
 - Your job as VP of IT operations is to ensure the fast, predictable, and uninterrupted flow of **planned work** that delivers value to the business while minimizing the impact and disruption of **unplanned work**, so you can provide stable, predictable, and secure IT service.
 - You win when you protect the organization without putting any meaningless work into the IT system. And you win even more when you can take meaningless work out of the IT system.
-- You need to know what matters to the achievement of the business objectives, whether it's Projects, Operations, Strategy, Compliance with laws and regulations, Security, or whatever. Remember, **outcomes** are what matter - not the process, not the controls, or, for that matter, what work you complete.
+- You need to know what matters to the **achievement of the business objectives**, whether it's Projects, Operations, Strategy, Compliance with laws and regulations, Security, or whatever. Remember, **outcomes** are what matter - not the process, not the controls, or, for that matter, what work you complete.
 
 
 ### Planning
@@ -22,7 +22,7 @@
 
 ### Unplanned Work
 - We need to stop shooting ourselves in the foot and get out of constant **firefighting mode**.
-- Remember, unplanned work kills your ability to do planned work, so you must always do whatever it takes to eradicate it. Murphy does exist, so you will always have unplanned work, but it must be handled efficiently.
+- Remember, **unplanned work kills your ability to do planned work**, so you must always do whatever it takes to eradicate it. Murphy does exist, so you will always have unplanned work, but it must be handled efficiently.
 - Left unchecked, **technical debt** will ensure that the only work that gets done is unplanned work.
 
 
@@ -39,12 +39,12 @@
 - The great team doesn't mean that they had the smartest people. What made those teams great is that everyone trusted one another. In order to have mutual **trust**, you need to be **vulnerable**.
 - Solving any complex business problem requires teamwork, and teamwork requires trust.
 - A great team performs best when they **practice**. Practice creates **habits**, and habits create **mastery** of any process or skill.
-- Tell the truth is an act of love. To withhold the truth is an act of hate. Or worse, apathy. Having people give you honest feedback is a rare gift.
+- Tell the truth is an act of love. To withhold the truth is an act of hate. Or worse, apathy. Having people give you **honest feedback is a rare gift**.
 
 
 ### Misc
 - Change is any activity that is physical, logical, or virtual to applications, databases, operating systems, networks, or hardware that could impact services being delivered.
-- **Perfection** is the enemy of good. No, **lack of competence** is the enemy of good.
+- **Perfection** is the enemy of good? No, **lack of competence** is the enemy of good.
 - It's not the up-front capital that kills you, it's the operations and maintenance on the back end.
 - Problems, like dog poop left in the rain, rarely get better just by ignoring them.
 - We pay you to think, not just do.
